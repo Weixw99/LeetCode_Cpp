@@ -1,0 +1,4 @@
+/home/wxw/Application/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" -S /home/wxw/Project/LeetCode_Cpp -B /home/wxw/Project/LeetCode_Cpp/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wxw/Project/LeetCode_Cpp/cmake-build-debug
