@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/linked_list/Init_list.cpp.o"
   "CMakeFiles/LeetCode_Cpp.dir/linked_list/Init_list.cpp.o.d"
+  "CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.o"
+  "CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/linked_list/move_list_element_203.cpp.o"
   "CMakeFiles/LeetCode_Cpp.dir/linked_list/move_list_element_203.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o"

@@ -94,6 +94,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/Init_list.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/design_list_707.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/linked_list.h">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

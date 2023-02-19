@@ -5,15 +5,20 @@
 #include <vector>
 using namespace std;
 
+
+/*******209、长度最小的子数组********/
 class Solution209 {
 public:
     int minSubArrayLen(int s, vector<int> &nums);
 };
+int make_main209();
 
+
+/*******59、螺旋矩阵II********/
 class Solution59 {
 public:
     vector<vector<int>> generateMatrix(int n);
 };
-int make_main209();
+
 
 #endif //LEETCODE_ARRAY_H

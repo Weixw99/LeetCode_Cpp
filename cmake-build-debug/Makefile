@@ -201,6 +201,30 @@ linked_list/Init_list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/Init_list.cpp.s
 .PHONY : linked_list/Init_list.cpp.s
 
+linked_list/design_list_707.o: linked_list/design_list_707.cpp.o
+.PHONY : linked_list/design_list_707.o
+
+# target to build an object file
+linked_list/design_list_707.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.o
+.PHONY : linked_list/design_list_707.cpp.o
+
+linked_list/design_list_707.i: linked_list/design_list_707.cpp.i
+.PHONY : linked_list/design_list_707.i
+
+# target to preprocess a source file
+linked_list/design_list_707.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.i
+.PHONY : linked_list/design_list_707.cpp.i
+
+linked_list/design_list_707.s: linked_list/design_list_707.cpp.s
+.PHONY : linked_list/design_list_707.s
+
+# target to generate assembly for a file
+linked_list/design_list_707.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.s
+.PHONY : linked_list/design_list_707.cpp.s
+
 linked_list/move_list_element_203.o: linked_list/move_list_element_203.cpp.o
 .PHONY : linked_list/move_list_element_203.o
 
@@ -267,6 +291,9 @@ help:
 	@echo "... linked_list/Init_list.o"
 	@echo "... linked_list/Init_list.i"
 	@echo "... linked_list/Init_list.s"
+	@echo "... linked_list/design_list_707.o"
+	@echo "... linked_list/design_list_707.i"
+	@echo "... linked_list/design_list_707.s"
 	@echo "... linked_list/move_list_element_203.o"
 	@echo "... linked_list/move_list_element_203.i"
 	@echo "... linked_list/move_list_element_203.s"
