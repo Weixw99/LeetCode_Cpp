@@ -40,4 +40,17 @@ private:
 };
 int make_main707();
 
+/**********206、反转链表*************/
+class Solution206 {
+public:
+    ListNode* reverseList(ListNode* head);
+};
+int make_main206();
+
+/**********24、两两交换链表中的节点*************/
+class Solution24 {
+public:
+    ListNode* swapPairs(ListNode* head);
+};
+int make_main24();
 #endif //LEETCODE_LINKED_LIST_H

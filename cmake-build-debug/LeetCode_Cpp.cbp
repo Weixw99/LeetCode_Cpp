@@ -103,6 +103,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/move_list_element_203.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/reverse_list_206.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/swap_pairs_24.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/main.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

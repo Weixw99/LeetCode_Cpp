@@ -249,6 +249,54 @@ linked_list/move_list_element_203.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/move_list_element_203.cpp.s
 .PHONY : linked_list/move_list_element_203.cpp.s
 
+linked_list/reverse_list_206.o: linked_list/reverse_list_206.cpp.o
+.PHONY : linked_list/reverse_list_206.o
+
+# target to build an object file
+linked_list/reverse_list_206.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o
+.PHONY : linked_list/reverse_list_206.cpp.o
+
+linked_list/reverse_list_206.i: linked_list/reverse_list_206.cpp.i
+.PHONY : linked_list/reverse_list_206.i
+
+# target to preprocess a source file
+linked_list/reverse_list_206.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.i
+.PHONY : linked_list/reverse_list_206.cpp.i
+
+linked_list/reverse_list_206.s: linked_list/reverse_list_206.cpp.s
+.PHONY : linked_list/reverse_list_206.s
+
+# target to generate assembly for a file
+linked_list/reverse_list_206.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.s
+.PHONY : linked_list/reverse_list_206.cpp.s
+
+linked_list/swap_pairs_24.o: linked_list/swap_pairs_24.cpp.o
+.PHONY : linked_list/swap_pairs_24.o
+
+# target to build an object file
+linked_list/swap_pairs_24.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o
+.PHONY : linked_list/swap_pairs_24.cpp.o
+
+linked_list/swap_pairs_24.i: linked_list/swap_pairs_24.cpp.i
+.PHONY : linked_list/swap_pairs_24.i
+
+# target to preprocess a source file
+linked_list/swap_pairs_24.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.i
+.PHONY : linked_list/swap_pairs_24.cpp.i
+
+linked_list/swap_pairs_24.s: linked_list/swap_pairs_24.cpp.s
+.PHONY : linked_list/swap_pairs_24.s
+
+# target to generate assembly for a file
+linked_list/swap_pairs_24.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.s
+.PHONY : linked_list/swap_pairs_24.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -297,6 +345,12 @@ help:
 	@echo "... linked_list/move_list_element_203.o"
 	@echo "... linked_list/move_list_element_203.i"
 	@echo "... linked_list/move_list_element_203.s"
+	@echo "... linked_list/reverse_list_206.o"
+	@echo "... linked_list/reverse_list_206.i"
+	@echo "... linked_list/reverse_list_206.s"
+	@echo "... linked_list/swap_pairs_24.o"
+	@echo "... linked_list/swap_pairs_24.i"
+	@echo "... linked_list/swap_pairs_24.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -153,6 +153,34 @@ CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/linked_list/design_list_707.cpp -o CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.s
 
+CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o: ../linked_list/reverse_list_206.cpp
+CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o -c /home/wxw/Project/LeetCode_Cpp/linked_list/reverse_list_206.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/linked_list/reverse_list_206.cpp > CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/linked_list/reverse_list_206.cpp -o CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o: ../linked_list/swap_pairs_24.cpp
+CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o -c /home/wxw/Project/LeetCode_Cpp/linked_list/swap_pairs_24.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/linked_list/swap_pairs_24.cpp > CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/linked_list/swap_pairs_24.cpp -o CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.s
+
 # Object files for target LeetCode_Cpp
 LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" \
@@ -160,7 +188,9 @@ LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/linked_list/move_list_element_203.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/linked_list/Init_list.cpp.o" \
-"CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.o"
+"CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o"
 
 # External object files for target LeetCode_Cpp
 LeetCode_Cpp_EXTERNAL_OBJECTS =
@@ -171,9 +201,11 @@ LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/linked_list/move_list_element_203.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/linked_list/Init_list.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/build.make
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable LeetCode_Cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable LeetCode_Cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode_Cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
