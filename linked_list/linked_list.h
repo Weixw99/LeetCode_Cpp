@@ -53,4 +53,11 @@ public:
     ListNode* swapPairs(ListNode* head);
 };
 int make_main24();
+
+/**********24、两两交换链表中的节点*************/
+class Solution19 {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int n);
+};
+int make_main19();
 #endif //LEETCODE_LINKED_LIST_H

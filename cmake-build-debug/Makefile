@@ -201,6 +201,30 @@ linked_list/Init_list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/Init_list.cpp.s
 .PHONY : linked_list/Init_list.cpp.s
 
+linked_list/delete_Nst_list_19.o: linked_list/delete_Nst_list_19.cpp.o
+.PHONY : linked_list/delete_Nst_list_19.o
+
+# target to build an object file
+linked_list/delete_Nst_list_19.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/delete_Nst_list_19.cpp.o
+.PHONY : linked_list/delete_Nst_list_19.cpp.o
+
+linked_list/delete_Nst_list_19.i: linked_list/delete_Nst_list_19.cpp.i
+.PHONY : linked_list/delete_Nst_list_19.i
+
+# target to preprocess a source file
+linked_list/delete_Nst_list_19.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/delete_Nst_list_19.cpp.i
+.PHONY : linked_list/delete_Nst_list_19.cpp.i
+
+linked_list/delete_Nst_list_19.s: linked_list/delete_Nst_list_19.cpp.s
+.PHONY : linked_list/delete_Nst_list_19.s
+
+# target to generate assembly for a file
+linked_list/delete_Nst_list_19.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/delete_Nst_list_19.cpp.s
+.PHONY : linked_list/delete_Nst_list_19.cpp.s
+
 linked_list/design_list_707.o: linked_list/design_list_707.cpp.o
 .PHONY : linked_list/design_list_707.o
 
@@ -339,6 +363,9 @@ help:
 	@echo "... linked_list/Init_list.o"
 	@echo "... linked_list/Init_list.i"
 	@echo "... linked_list/Init_list.s"
+	@echo "... linked_list/delete_Nst_list_19.o"
+	@echo "... linked_list/delete_Nst_list_19.i"
+	@echo "... linked_list/delete_Nst_list_19.s"
 	@echo "... linked_list/design_list_707.o"
 	@echo "... linked_list/design_list_707.i"
 	@echo "... linked_list/design_list_707.s"
