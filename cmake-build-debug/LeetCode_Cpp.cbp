@@ -91,6 +91,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/array/matrix_59.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/hash_table.h">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/Init_list.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -100,6 +106,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/design_list_707.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/intersect_list_160.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/linked_list.h">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -107,6 +116,9 @@
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/reverse_list_206.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/ring_list_142.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/linked_list/swap_pairs_24.cpp">

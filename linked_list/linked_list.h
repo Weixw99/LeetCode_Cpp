@@ -11,11 +11,12 @@ using namespace std;
 struct ListNode{
     int val;
     ListNode *next;
-    ListNode(int val):val(val), next(nullptr){}
+    explicit ListNode(int val):val(val), next(nullptr){}
 };
 bool InitList(ListNode* &L);
 ListNode* list_tail(ListNode* L, vector<int> nu);
-
+ListNode* define_list(const vector<int>& list, bool dummy_head_flag = 0);  //给定一个向量，返回一个链表并显示出来
+void print_list(ListNode* head);
 
 /**********203、移除链表元素***********/
 class Solution203 {
@@ -60,4 +61,19 @@ public:
     ListNode* removeNthFromEnd(ListNode* head, int n);
 };
 int make_main19();
+
+/**********160相交链表*************/
+class Solution160 {
+public:
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB);
+};
+int make_main160();
+
+/**********142、环形链表*************/
+class Solution142 {
+public:
+    ListNode *detectCycle(ListNode *head);
+};
+int make_main142();
+
 #endif //LEETCODE_LINKED_LIST_H

@@ -177,6 +177,30 @@ array/matrix_59.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.s
 .PHONY : array/matrix_59.cpp.s
 
+hash_table/anagrams_242.o: hash_table/anagrams_242.cpp.o
+.PHONY : hash_table/anagrams_242.o
+
+# target to build an object file
+hash_table/anagrams_242.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.o
+.PHONY : hash_table/anagrams_242.cpp.o
+
+hash_table/anagrams_242.i: hash_table/anagrams_242.cpp.i
+.PHONY : hash_table/anagrams_242.i
+
+# target to preprocess a source file
+hash_table/anagrams_242.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.i
+.PHONY : hash_table/anagrams_242.cpp.i
+
+hash_table/anagrams_242.s: hash_table/anagrams_242.cpp.s
+.PHONY : hash_table/anagrams_242.s
+
+# target to generate assembly for a file
+hash_table/anagrams_242.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.s
+.PHONY : hash_table/anagrams_242.cpp.s
+
 linked_list/Init_list.o: linked_list/Init_list.cpp.o
 .PHONY : linked_list/Init_list.o
 
@@ -249,6 +273,30 @@ linked_list/design_list_707.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/design_list_707.cpp.s
 .PHONY : linked_list/design_list_707.cpp.s
 
+linked_list/intersect_list_160.o: linked_list/intersect_list_160.cpp.o
+.PHONY : linked_list/intersect_list_160.o
+
+# target to build an object file
+linked_list/intersect_list_160.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/intersect_list_160.cpp.o
+.PHONY : linked_list/intersect_list_160.cpp.o
+
+linked_list/intersect_list_160.i: linked_list/intersect_list_160.cpp.i
+.PHONY : linked_list/intersect_list_160.i
+
+# target to preprocess a source file
+linked_list/intersect_list_160.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/intersect_list_160.cpp.i
+.PHONY : linked_list/intersect_list_160.cpp.i
+
+linked_list/intersect_list_160.s: linked_list/intersect_list_160.cpp.s
+.PHONY : linked_list/intersect_list_160.s
+
+# target to generate assembly for a file
+linked_list/intersect_list_160.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/intersect_list_160.cpp.s
+.PHONY : linked_list/intersect_list_160.cpp.s
+
 linked_list/move_list_element_203.o: linked_list/move_list_element_203.cpp.o
 .PHONY : linked_list/move_list_element_203.o
 
@@ -296,6 +344,30 @@ linked_list/reverse_list_206.s: linked_list/reverse_list_206.cpp.s
 linked_list/reverse_list_206.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/reverse_list_206.cpp.s
 .PHONY : linked_list/reverse_list_206.cpp.s
+
+linked_list/ring_list_142.o: linked_list/ring_list_142.cpp.o
+.PHONY : linked_list/ring_list_142.o
+
+# target to build an object file
+linked_list/ring_list_142.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/ring_list_142.cpp.o
+.PHONY : linked_list/ring_list_142.cpp.o
+
+linked_list/ring_list_142.i: linked_list/ring_list_142.cpp.i
+.PHONY : linked_list/ring_list_142.i
+
+# target to preprocess a source file
+linked_list/ring_list_142.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/ring_list_142.cpp.i
+.PHONY : linked_list/ring_list_142.cpp.i
+
+linked_list/ring_list_142.s: linked_list/ring_list_142.cpp.s
+.PHONY : linked_list/ring_list_142.s
+
+# target to generate assembly for a file
+linked_list/ring_list_142.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/linked_list/ring_list_142.cpp.s
+.PHONY : linked_list/ring_list_142.cpp.s
 
 linked_list/swap_pairs_24.o: linked_list/swap_pairs_24.cpp.o
 .PHONY : linked_list/swap_pairs_24.o
@@ -360,6 +432,9 @@ help:
 	@echo "... array/matrix_59.o"
 	@echo "... array/matrix_59.i"
 	@echo "... array/matrix_59.s"
+	@echo "... hash_table/anagrams_242.o"
+	@echo "... hash_table/anagrams_242.i"
+	@echo "... hash_table/anagrams_242.s"
 	@echo "... linked_list/Init_list.o"
 	@echo "... linked_list/Init_list.i"
 	@echo "... linked_list/Init_list.s"
@@ -369,12 +444,18 @@ help:
 	@echo "... linked_list/design_list_707.o"
 	@echo "... linked_list/design_list_707.i"
 	@echo "... linked_list/design_list_707.s"
+	@echo "... linked_list/intersect_list_160.o"
+	@echo "... linked_list/intersect_list_160.i"
+	@echo "... linked_list/intersect_list_160.s"
 	@echo "... linked_list/move_list_element_203.o"
 	@echo "... linked_list/move_list_element_203.i"
 	@echo "... linked_list/move_list_element_203.s"
 	@echo "... linked_list/reverse_list_206.o"
 	@echo "... linked_list/reverse_list_206.i"
 	@echo "... linked_list/reverse_list_206.s"
+	@echo "... linked_list/ring_list_142.o"
+	@echo "... linked_list/ring_list_142.i"
+	@echo "... linked_list/ring_list_142.s"
 	@echo "... linked_list/swap_pairs_24.o"
 	@echo "... linked_list/swap_pairs_24.i"
 	@echo "... linked_list/swap_pairs_24.s"

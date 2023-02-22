@@ -30,3 +30,31 @@ ListNode* list_tail(ListNode* L, vector<int> nu)
     r->next =  nullptr;
     return L;
 }
+
+ListNode* define_list(const vector<int>& list, bool dummy_head_flag){
+    auto* dummy_head = new ListNode(0);
+    ListNode* wxw = dummy_head;
+    for (auto i : list){
+        auto* new_node = new ListNode(i);
+        while (wxw->next != nullptr){
+            wxw = wxw->next;
+        }
+        wxw->next = new_node;
+    }
+    print_list(dummy_head->next);
+    if (dummy_head_flag) return dummy_head->next;
+    else return dummy_head;
+
+}
+
+void print_list(ListNode* head){
+    auto* dummy_head = new ListNode(0);
+    ListNode* wxw;
+    dummy_head->next = head;
+    wxw = dummy_head;
+    while (wxw->next){
+        cout <<wxw->next->val << " ";
+        wxw = wxw->next;
+    }
+    cout <<'\n';
+}
