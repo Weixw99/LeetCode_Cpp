@@ -7,14 +7,22 @@
 
 #include <iostream>
 #include <vector>
+#include <unordered_set>
 using namespace std;
 
 /*******242、有效的字母异位词********/
 class Solution242 {
 public:
-    bool isAnagram(string s, string t);
+    bool isAnagram(const string& s, const string& t);
 };
 int make_main242();
 
+
+/*******349、两个数组的交集********/
+class Solution349 {
+public:
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2);
+};
+int make_main349();
 
 #endif //LEETCODE_CPP_HASH_TABLE_H

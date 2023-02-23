@@ -201,6 +201,30 @@ hash_table/anagrams_242.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.s
 .PHONY : hash_table/anagrams_242.cpp.s
 
+hash_table/two_array_intersection_349.o: hash_table/two_array_intersection_349.cpp.o
+.PHONY : hash_table/two_array_intersection_349.o
+
+# target to build an object file
+hash_table/two_array_intersection_349.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/two_array_intersection_349.cpp.o
+.PHONY : hash_table/two_array_intersection_349.cpp.o
+
+hash_table/two_array_intersection_349.i: hash_table/two_array_intersection_349.cpp.i
+.PHONY : hash_table/two_array_intersection_349.i
+
+# target to preprocess a source file
+hash_table/two_array_intersection_349.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/two_array_intersection_349.cpp.i
+.PHONY : hash_table/two_array_intersection_349.cpp.i
+
+hash_table/two_array_intersection_349.s: hash_table/two_array_intersection_349.cpp.s
+.PHONY : hash_table/two_array_intersection_349.s
+
+# target to generate assembly for a file
+hash_table/two_array_intersection_349.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/two_array_intersection_349.cpp.s
+.PHONY : hash_table/two_array_intersection_349.cpp.s
+
 linked_list/Init_list.o: linked_list/Init_list.cpp.o
 .PHONY : linked_list/Init_list.o
 
@@ -435,6 +459,9 @@ help:
 	@echo "... hash_table/anagrams_242.o"
 	@echo "... hash_table/anagrams_242.i"
 	@echo "... hash_table/anagrams_242.s"
+	@echo "... hash_table/two_array_intersection_349.o"
+	@echo "... hash_table/two_array_intersection_349.i"
+	@echo "... hash_table/two_array_intersection_349.s"
 	@echo "... linked_list/Init_list.o"
 	@echo "... linked_list/Init_list.i"
 	@echo "... linked_list/Init_list.s"
