@@ -94,6 +94,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/happy_num_202.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/hash_table.h">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

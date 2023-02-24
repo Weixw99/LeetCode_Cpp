@@ -25,4 +25,12 @@ public:
 };
 int make_main349();
 
+/*******349、两个数组的交集********/
+class Solution202 {
+public:
+    int getSum(int n);
+    bool isHappy(int n);
+};
+int make_main202();
+
 #endif //LEETCODE_CPP_HASH_TABLE_H
