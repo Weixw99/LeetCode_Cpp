@@ -8,6 +8,7 @@
 #include <iostream>
 #include <vector>
 #include <unordered_set>
+#include <unordered_map>
 using namespace std;
 
 /*******242、有效的字母异位词********/
@@ -25,12 +26,19 @@ public:
 };
 int make_main349();
 
-/*******349、两个数组的交集********/
+/*******202、快乐数********/
 class Solution202 {
 public:
     int getSum(int n);
     bool isHappy(int n);
 };
 int make_main202();
+
+/*******1、两数之和********/
+class Solution1 {
+public:
+    vector<int> twoSum(vector<int>& nums, int target);
+};
+int make_main1();
 
 #endif //LEETCODE_CPP_HASH_TABLE_H
