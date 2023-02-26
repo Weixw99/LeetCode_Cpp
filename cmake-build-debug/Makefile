@@ -225,6 +225,30 @@ hash_table/happy_num_202.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.s
 .PHONY : hash_table/happy_num_202.cpp.s
 
+hash_table/sum_four_454.o: hash_table/sum_four_454.cpp.o
+.PHONY : hash_table/sum_four_454.o
+
+# target to build an object file
+hash_table/sum_four_454.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.o
+.PHONY : hash_table/sum_four_454.cpp.o
+
+hash_table/sum_four_454.i: hash_table/sum_four_454.cpp.i
+.PHONY : hash_table/sum_four_454.i
+
+# target to preprocess a source file
+hash_table/sum_four_454.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.i
+.PHONY : hash_table/sum_four_454.cpp.i
+
+hash_table/sum_four_454.s: hash_table/sum_four_454.cpp.s
+.PHONY : hash_table/sum_four_454.s
+
+# target to generate assembly for a file
+hash_table/sum_four_454.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.s
+.PHONY : hash_table/sum_four_454.cpp.s
+
 hash_table/sum_num_1.o: hash_table/sum_num_1.cpp.o
 .PHONY : hash_table/sum_num_1.o
 
@@ -510,6 +534,9 @@ help:
 	@echo "... hash_table/happy_num_202.o"
 	@echo "... hash_table/happy_num_202.i"
 	@echo "... hash_table/happy_num_202.s"
+	@echo "... hash_table/sum_four_454.o"
+	@echo "... hash_table/sum_four_454.i"
+	@echo "... hash_table/sum_four_454.s"
 	@echo "... hash_table/sum_num_1.o"
 	@echo "... hash_table/sum_num_1.i"
 	@echo "... hash_table/sum_num_1.s"

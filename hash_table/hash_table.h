@@ -41,4 +41,11 @@ public:
 };
 int make_main1();
 
+/*******454、四数相加********/
+class Solution454 {
+public:
+    int fourSumCount(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3, vector<int>& nums4);
+};
+int make_main454();
+
 #endif //LEETCODE_CPP_HASH_TABLE_H
