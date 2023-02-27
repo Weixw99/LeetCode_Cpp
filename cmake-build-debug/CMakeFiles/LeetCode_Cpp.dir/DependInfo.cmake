@@ -12,8 +12,11 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/wxw/Project/LeetCode_Cpp/array/matrix_59.cpp" "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/hash_table/happy_num_202.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/hash_table/ransom_letter_383.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/hash_table/sum_four_454.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/hash_table/sum_num_1.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_1.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_1.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/hash_table/sum_num_four_18.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/hash_table/sum_three_15.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/hash_table/two_array_intersection_349.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/two_array_intersection_349.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/two_array_intersection_349.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/linked_list/Init_list.cpp" "CMakeFiles/LeetCode_Cpp.dir/linked_list/Init_list.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/linked_list/Init_list.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/linked_list/delete_Nst_list_19.cpp" "CMakeFiles/LeetCode_Cpp.dir/linked_list/delete_Nst_list_19.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/linked_list/delete_Nst_list_19.cpp.o.d"
@@ -24,6 +27,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/wxw/Project/LeetCode_Cpp/linked_list/ring_list_142.cpp" "CMakeFiles/LeetCode_Cpp.dir/linked_list/ring_list_142.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/linked_list/ring_list_142.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/linked_list/swap_pairs_24.cpp" "CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/main.cpp" "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/strings/reverse _strings_344.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o.d"
   )
 
 # Targets to which this target links.

@@ -100,10 +100,19 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/hash_table.h">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/ransom_letter_383.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/sum_four_454.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/sum_num_1.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/sum_num_four_18.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/sum_three_15.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/two_array_intersection_349.cpp">
@@ -137,6 +146,12 @@
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/main.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/strings/reverse _strings_344.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/strings/strings.h">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/CMakeLists.txt">

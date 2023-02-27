@@ -293,6 +293,62 @@ CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/hash_table/sum_four_454.cpp -o CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.s
 
+CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o: ../hash_table/ransom_letter_383.cpp
+CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o -c /home/wxw/Project/LeetCode_Cpp/hash_table/ransom_letter_383.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/hash_table/ransom_letter_383.cpp > CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/hash_table/ransom_letter_383.cpp -o CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o: ../hash_table/sum_three_15.cpp
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o -c /home/wxw/Project/LeetCode_Cpp/hash_table/sum_three_15.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/hash_table/sum_three_15.cpp > CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/hash_table/sum_three_15.cpp -o CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o: ../hash_table/sum_num_four_18.cpp
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o -c /home/wxw/Project/LeetCode_Cpp/hash_table/sum_num_four_18.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/hash_table/sum_num_four_18.cpp > CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/hash_table/sum_num_four_18.cpp -o CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o: ../strings/reverse\ _strings_344.cpp
+CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o -c "/home/wxw/Project/LeetCode_Cpp/strings/reverse _strings_344.cpp"
+
+CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wxw/Project/LeetCode_Cpp/strings/reverse _strings_344.cpp" > CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wxw/Project/LeetCode_Cpp/strings/reverse _strings_344.cpp" -o CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.s
+
 # Object files for target LeetCode_Cpp
 LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" \
@@ -310,7 +366,11 @@ LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/hash_table/two_array_intersection_349.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_1.cpp.o" \
-"CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.o"
+"CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o"
 
 # External object files for target LeetCode_Cpp
 LeetCode_Cpp_EXTERNAL_OBJECTS =
@@ -331,9 +391,13 @@ LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/hash_table/two_array_intersection_349.
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_1.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_four_454.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/build.make
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable LeetCode_Cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable LeetCode_Cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode_Cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

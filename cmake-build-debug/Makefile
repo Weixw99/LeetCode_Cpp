@@ -225,6 +225,30 @@ hash_table/happy_num_202.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.s
 .PHONY : hash_table/happy_num_202.cpp.s
 
+hash_table/ransom_letter_383.o: hash_table/ransom_letter_383.cpp.o
+.PHONY : hash_table/ransom_letter_383.o
+
+# target to build an object file
+hash_table/ransom_letter_383.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o
+.PHONY : hash_table/ransom_letter_383.cpp.o
+
+hash_table/ransom_letter_383.i: hash_table/ransom_letter_383.cpp.i
+.PHONY : hash_table/ransom_letter_383.i
+
+# target to preprocess a source file
+hash_table/ransom_letter_383.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.i
+.PHONY : hash_table/ransom_letter_383.cpp.i
+
+hash_table/ransom_letter_383.s: hash_table/ransom_letter_383.cpp.s
+.PHONY : hash_table/ransom_letter_383.s
+
+# target to generate assembly for a file
+hash_table/ransom_letter_383.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.s
+.PHONY : hash_table/ransom_letter_383.cpp.s
+
 hash_table/sum_four_454.o: hash_table/sum_four_454.cpp.o
 .PHONY : hash_table/sum_four_454.o
 
@@ -272,6 +296,54 @@ hash_table/sum_num_1.s: hash_table/sum_num_1.cpp.s
 hash_table/sum_num_1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_1.cpp.s
 .PHONY : hash_table/sum_num_1.cpp.s
+
+hash_table/sum_num_four_18.o: hash_table/sum_num_four_18.cpp.o
+.PHONY : hash_table/sum_num_four_18.o
+
+# target to build an object file
+hash_table/sum_num_four_18.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.o
+.PHONY : hash_table/sum_num_four_18.cpp.o
+
+hash_table/sum_num_four_18.i: hash_table/sum_num_four_18.cpp.i
+.PHONY : hash_table/sum_num_four_18.i
+
+# target to preprocess a source file
+hash_table/sum_num_four_18.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.i
+.PHONY : hash_table/sum_num_four_18.cpp.i
+
+hash_table/sum_num_four_18.s: hash_table/sum_num_four_18.cpp.s
+.PHONY : hash_table/sum_num_four_18.s
+
+# target to generate assembly for a file
+hash_table/sum_num_four_18.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_num_four_18.cpp.s
+.PHONY : hash_table/sum_num_four_18.cpp.s
+
+hash_table/sum_three_15.o: hash_table/sum_three_15.cpp.o
+.PHONY : hash_table/sum_three_15.o
+
+# target to build an object file
+hash_table/sum_three_15.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.o
+.PHONY : hash_table/sum_three_15.cpp.o
+
+hash_table/sum_three_15.i: hash_table/sum_three_15.cpp.i
+.PHONY : hash_table/sum_three_15.i
+
+# target to preprocess a source file
+hash_table/sum_three_15.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.i
+.PHONY : hash_table/sum_three_15.cpp.i
+
+hash_table/sum_three_15.s: hash_table/sum_three_15.cpp.s
+.PHONY : hash_table/sum_three_15.s
+
+# target to generate assembly for a file
+hash_table/sum_three_15.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/hash_table/sum_three_15.cpp.s
+.PHONY : hash_table/sum_three_15.cpp.s
 
 hash_table/two_array_intersection_349.o: hash_table/two_array_intersection_349.cpp.o
 .PHONY : hash_table/two_array_intersection_349.o
@@ -513,6 +585,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+strings/reverse__strings_344.o: strings/reverse__strings_344.cpp.o
+.PHONY : strings/reverse__strings_344.o
+
+# target to build an object file
+strings/reverse__strings_344.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o
+.PHONY : strings/reverse__strings_344.cpp.o
+
+strings/reverse__strings_344.i: strings/reverse__strings_344.cpp.i
+.PHONY : strings/reverse__strings_344.i
+
+# target to preprocess a source file
+strings/reverse__strings_344.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.i
+.PHONY : strings/reverse__strings_344.cpp.i
+
+strings/reverse__strings_344.s: strings/reverse__strings_344.cpp.s
+.PHONY : strings/reverse__strings_344.s
+
+# target to generate assembly for a file
+strings/reverse__strings_344.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.s
+.PHONY : strings/reverse__strings_344.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -534,12 +630,21 @@ help:
 	@echo "... hash_table/happy_num_202.o"
 	@echo "... hash_table/happy_num_202.i"
 	@echo "... hash_table/happy_num_202.s"
+	@echo "... hash_table/ransom_letter_383.o"
+	@echo "... hash_table/ransom_letter_383.i"
+	@echo "... hash_table/ransom_letter_383.s"
 	@echo "... hash_table/sum_four_454.o"
 	@echo "... hash_table/sum_four_454.i"
 	@echo "... hash_table/sum_four_454.s"
 	@echo "... hash_table/sum_num_1.o"
 	@echo "... hash_table/sum_num_1.i"
 	@echo "... hash_table/sum_num_1.s"
+	@echo "... hash_table/sum_num_four_18.o"
+	@echo "... hash_table/sum_num_four_18.i"
+	@echo "... hash_table/sum_num_four_18.s"
+	@echo "... hash_table/sum_three_15.o"
+	@echo "... hash_table/sum_three_15.i"
+	@echo "... hash_table/sum_three_15.s"
 	@echo "... hash_table/two_array_intersection_349.o"
 	@echo "... hash_table/two_array_intersection_349.i"
 	@echo "... hash_table/two_array_intersection_349.s"
@@ -570,6 +675,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... strings/reverse__strings_344.o"
+	@echo "... strings/reverse__strings_344.i"
+	@echo "... strings/reverse__strings_344.s"
 .PHONY : help
 
 

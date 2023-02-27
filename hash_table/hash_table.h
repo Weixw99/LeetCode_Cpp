@@ -9,6 +9,8 @@
 #include <vector>
 #include <unordered_set>
 #include <unordered_map>
+#include <string>
+#include <algorithm>
 using namespace std;
 
 /*******242、有效的字母异位词********/
@@ -47,5 +49,26 @@ public:
     int fourSumCount(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3, vector<int>& nums4);
 };
 int make_main454();
+
+/*******383、赎金信********/
+class Solution383 {
+public:
+    bool canConstruct(string ransomNote, string magazine);
+};
+int make_main383();
+
+/*******15、三数之和********/
+class Solution15 {
+public:
+    vector<vector<int>> threeSum(vector<int>& nums);
+};
+int make_main15();
+
+/*******18、四数之和********/
+class Solution18 {
+public:
+    vector<vector<int>> fourSum(vector<int>& nums, int target);
+};
+int make_main18();
 
 #endif //LEETCODE_CPP_HASH_TABLE_H
