@@ -28,6 +28,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/wxw/Project/LeetCode_Cpp/linked_list/swap_pairs_24.cpp" "CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/main.cpp" "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/strings/reverse _strings_344.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/strings/reverse_strings2_541.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse_strings2_541.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse_strings2_541.cpp.o.d"
   )
 
 # Targets to which this target links.

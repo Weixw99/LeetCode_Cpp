@@ -151,6 +151,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/strings/reverse _strings_344.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/strings/reverse_strings2_541.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/strings/strings.h">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

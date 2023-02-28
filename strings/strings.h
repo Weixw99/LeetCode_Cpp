@@ -6,6 +6,7 @@
 #define LEETCODE_CPP_STRINGS_H
 #include <iostream>
 #include <vector>
+#include <strings.h>
 using namespace std;
 
 /*******344、反转字符串********/
@@ -16,7 +17,11 @@ public:
 int make_main344();
 
 /*******541、反转字符串②********/
-
+class Solution541 {
+public:
+    string reverseStr(string s, int k);
+};
+int make_main541();
 
 /*******5、替换空格********/
 

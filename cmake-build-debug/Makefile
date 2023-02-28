@@ -609,6 +609,30 @@ strings/reverse__strings_344.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.s
 .PHONY : strings/reverse__strings_344.cpp.s
 
+strings/reverse_strings2_541.o: strings/reverse_strings2_541.cpp.o
+.PHONY : strings/reverse_strings2_541.o
+
+# target to build an object file
+strings/reverse_strings2_541.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse_strings2_541.cpp.o
+.PHONY : strings/reverse_strings2_541.cpp.o
+
+strings/reverse_strings2_541.i: strings/reverse_strings2_541.cpp.i
+.PHONY : strings/reverse_strings2_541.i
+
+# target to preprocess a source file
+strings/reverse_strings2_541.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse_strings2_541.cpp.i
+.PHONY : strings/reverse_strings2_541.cpp.i
+
+strings/reverse_strings2_541.s: strings/reverse_strings2_541.cpp.s
+.PHONY : strings/reverse_strings2_541.s
+
+# target to generate assembly for a file
+strings/reverse_strings2_541.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse_strings2_541.cpp.s
+.PHONY : strings/reverse_strings2_541.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -678,6 +702,9 @@ help:
 	@echo "... strings/reverse__strings_344.o"
 	@echo "... strings/reverse__strings_344.i"
 	@echo "... strings/reverse__strings_344.s"
+	@echo "... strings/reverse_strings2_541.o"
+	@echo "... strings/reverse_strings2_541.i"
+	@echo "... strings/reverse_strings2_541.s"
 .PHONY : help
 
 
