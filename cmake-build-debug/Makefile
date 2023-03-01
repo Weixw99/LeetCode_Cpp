@@ -585,6 +585,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+strings/replace_spac_jz05.o: strings/replace_spac_jz05.cpp.o
+.PHONY : strings/replace_spac_jz05.o
+
+# target to build an object file
+strings/replace_spac_jz05.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/replace_spac_jz05.cpp.o
+.PHONY : strings/replace_spac_jz05.cpp.o
+
+strings/replace_spac_jz05.i: strings/replace_spac_jz05.cpp.i
+.PHONY : strings/replace_spac_jz05.i
+
+# target to preprocess a source file
+strings/replace_spac_jz05.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/replace_spac_jz05.cpp.i
+.PHONY : strings/replace_spac_jz05.cpp.i
+
+strings/replace_spac_jz05.s: strings/replace_spac_jz05.cpp.s
+.PHONY : strings/replace_spac_jz05.s
+
+# target to generate assembly for a file
+strings/replace_spac_jz05.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/replace_spac_jz05.cpp.s
+.PHONY : strings/replace_spac_jz05.cpp.s
+
 strings/reverse__strings_344.o: strings/reverse__strings_344.cpp.o
 .PHONY : strings/reverse__strings_344.o
 
@@ -632,6 +656,30 @@ strings/reverse_strings2_541.s: strings/reverse_strings2_541.cpp.s
 strings/reverse_strings2_541.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse_strings2_541.cpp.s
 .PHONY : strings/reverse_strings2_541.cpp.s
+
+strings/reverse_word_151.o: strings/reverse_word_151.cpp.o
+.PHONY : strings/reverse_word_151.o
+
+# target to build an object file
+strings/reverse_word_151.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse_word_151.cpp.o
+.PHONY : strings/reverse_word_151.cpp.o
+
+strings/reverse_word_151.i: strings/reverse_word_151.cpp.i
+.PHONY : strings/reverse_word_151.i
+
+# target to preprocess a source file
+strings/reverse_word_151.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse_word_151.cpp.i
+.PHONY : strings/reverse_word_151.cpp.i
+
+strings/reverse_word_151.s: strings/reverse_word_151.cpp.s
+.PHONY : strings/reverse_word_151.s
+
+# target to generate assembly for a file
+strings/reverse_word_151.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse_word_151.cpp.s
+.PHONY : strings/reverse_word_151.cpp.s
 
 # Help Target
 help:
@@ -699,12 +747,18 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... strings/replace_spac_jz05.o"
+	@echo "... strings/replace_spac_jz05.i"
+	@echo "... strings/replace_spac_jz05.s"
 	@echo "... strings/reverse__strings_344.o"
 	@echo "... strings/reverse__strings_344.i"
 	@echo "... strings/reverse__strings_344.s"
 	@echo "... strings/reverse_strings2_541.o"
 	@echo "... strings/reverse_strings2_541.i"
 	@echo "... strings/reverse_strings2_541.s"
+	@echo "... strings/reverse_word_151.o"
+	@echo "... strings/reverse_word_151.i"
+	@echo "... strings/reverse_word_151.s"
 .PHONY : help
 
 

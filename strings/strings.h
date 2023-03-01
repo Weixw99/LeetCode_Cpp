@@ -23,11 +23,20 @@ public:
 };
 int make_main541();
 
-/*******5、替换空格********/
-
+/*******剑指offer05、替换空格********/
+class Solution_jz05 {
+public:
+    string replaceSpace(string s);
+};
+int make_main_jz05();
 
 /*******151、翻转字符串里的单词********/
-
+class Solution151 {
+public:
+    string reverseWords(string s);
+    void reverse(string& s, int start, int end);
+};
+int make_main151();
 
 /*******58、左旋转字符串********/
 

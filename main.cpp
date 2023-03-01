@@ -5,6 +5,6 @@
 
 int main ()
 {
-    make_main541();
+    make_main151();
     return 0;
 }
