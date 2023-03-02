@@ -585,6 +585,54 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+strings/find_num_28.o: strings/find_num_28.cpp.o
+.PHONY : strings/find_num_28.o
+
+# target to build an object file
+strings/find_num_28.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/find_num_28.cpp.o
+.PHONY : strings/find_num_28.cpp.o
+
+strings/find_num_28.i: strings/find_num_28.cpp.i
+.PHONY : strings/find_num_28.i
+
+# target to preprocess a source file
+strings/find_num_28.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/find_num_28.cpp.i
+.PHONY : strings/find_num_28.cpp.i
+
+strings/find_num_28.s: strings/find_num_28.cpp.s
+.PHONY : strings/find_num_28.s
+
+# target to generate assembly for a file
+strings/find_num_28.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/find_num_28.cpp.s
+.PHONY : strings/find_num_28.cpp.s
+
+strings/repeat_string_459.o: strings/repeat_string_459.cpp.o
+.PHONY : strings/repeat_string_459.o
+
+# target to build an object file
+strings/repeat_string_459.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/repeat_string_459.cpp.o
+.PHONY : strings/repeat_string_459.cpp.o
+
+strings/repeat_string_459.i: strings/repeat_string_459.cpp.i
+.PHONY : strings/repeat_string_459.i
+
+# target to preprocess a source file
+strings/repeat_string_459.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/repeat_string_459.cpp.i
+.PHONY : strings/repeat_string_459.cpp.i
+
+strings/repeat_string_459.s: strings/repeat_string_459.cpp.s
+.PHONY : strings/repeat_string_459.s
+
+# target to generate assembly for a file
+strings/repeat_string_459.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/repeat_string_459.cpp.s
+.PHONY : strings/repeat_string_459.cpp.s
+
 strings/replace_spac_jz05.o: strings/replace_spac_jz05.cpp.o
 .PHONY : strings/replace_spac_jz05.o
 
@@ -681,6 +729,30 @@ strings/reverse_word_151.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/reverse_word_151.cpp.s
 .PHONY : strings/reverse_word_151.cpp.s
 
+strings/turn_string_jz58.o: strings/turn_string_jz58.cpp.o
+.PHONY : strings/turn_string_jz58.o
+
+# target to build an object file
+strings/turn_string_jz58.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/turn_string_jz58.cpp.o
+.PHONY : strings/turn_string_jz58.cpp.o
+
+strings/turn_string_jz58.i: strings/turn_string_jz58.cpp.i
+.PHONY : strings/turn_string_jz58.i
+
+# target to preprocess a source file
+strings/turn_string_jz58.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/turn_string_jz58.cpp.i
+.PHONY : strings/turn_string_jz58.cpp.i
+
+strings/turn_string_jz58.s: strings/turn_string_jz58.cpp.s
+.PHONY : strings/turn_string_jz58.s
+
+# target to generate assembly for a file
+strings/turn_string_jz58.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/strings/turn_string_jz58.cpp.s
+.PHONY : strings/turn_string_jz58.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -747,6 +819,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... strings/find_num_28.o"
+	@echo "... strings/find_num_28.i"
+	@echo "... strings/find_num_28.s"
+	@echo "... strings/repeat_string_459.o"
+	@echo "... strings/repeat_string_459.i"
+	@echo "... strings/repeat_string_459.s"
 	@echo "... strings/replace_spac_jz05.o"
 	@echo "... strings/replace_spac_jz05.i"
 	@echo "... strings/replace_spac_jz05.s"
@@ -759,6 +837,9 @@ help:
 	@echo "... strings/reverse_word_151.o"
 	@echo "... strings/reverse_word_151.i"
 	@echo "... strings/reverse_word_151.s"
+	@echo "... strings/turn_string_jz58.o"
+	@echo "... strings/turn_string_jz58.i"
+	@echo "... strings/turn_string_jz58.s"
 .PHONY : help
 
 

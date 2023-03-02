@@ -27,10 +27,13 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/wxw/Project/LeetCode_Cpp/linked_list/ring_list_142.cpp" "CMakeFiles/LeetCode_Cpp.dir/linked_list/ring_list_142.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/linked_list/ring_list_142.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/linked_list/swap_pairs_24.cpp" "CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/linked_list/swap_pairs_24.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/main.cpp" "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/strings/find_num_28.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/find_num_28.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/find_num_28.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/strings/repeat_string_459.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/repeat_string_459.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/repeat_string_459.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/strings/replace_spac_jz05.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/replace_spac_jz05.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/replace_spac_jz05.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/strings/reverse _strings_344.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse__strings_344.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/strings/reverse_strings2_541.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse_strings2_541.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse_strings2_541.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/strings/reverse_word_151.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse_word_151.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/reverse_word_151.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/strings/turn_string_jz58.cpp" "CMakeFiles/LeetCode_Cpp.dir/strings/turn_string_jz58.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/strings/turn_string_jz58.cpp.o.d"
   )
 
 # Targets to which this target links.

@@ -39,13 +39,26 @@ public:
 int make_main151();
 
 /*******58、左旋转字符串********/
-
+class Solution_jz58 {
+public:
+    string reverseLeftWords(string s, int n);
+};
+int make_main_jz58();
 
 /*******28、实现 strStr()********/
-
+class Solution28 {
+public:
+    int strStr(string haystack, string needle);
+    void getNext(int* next, const string& s);
+};
+int make_main28();
 
 /*******459、重复的子字符串********/
-
-
+class Solution459 {
+public:
+    bool repeatedSubstringPattern(string s);
+    void getNext (int* next, const string& s);
+};
+int make_main459();
 
 #endif //LEETCODE_CPP_STRINGS_H
