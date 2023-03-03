@@ -148,6 +148,15 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/main.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/stack_queue/queue_to_stack_225.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/stack_queue/stack_queue.h">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/stack_queue/stack_to_queue_232.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/strings/find_num_28.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

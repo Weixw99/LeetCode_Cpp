@@ -2,6 +2,7 @@
 #include "linked_list/linked_list.h"  //链表头文件
 #include "hash_table/hash_table.h"  //链表头文件
 #include "strings/strings.h"
+#include "stack_queue/stack_queue.h"
 
 int main ()
 {
