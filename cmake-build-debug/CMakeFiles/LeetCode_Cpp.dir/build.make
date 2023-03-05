@@ -461,6 +461,48 @@ CMakeFiles/LeetCode_Cpp.dir/stack_queue/queue_to_stack_225.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/stack_queue/queue_to_stack_225.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/stack_queue/queue_to_stack_225.cpp -o CMakeFiles/LeetCode_Cpp.dir/stack_queue/queue_to_stack_225.cpp.s
 
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o: ../stack_queue/valid_bracket_20.cpp
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o -c /home/wxw/Project/LeetCode_Cpp/stack_queue/valid_bracket_20.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/stack_queue/valid_bracket_20.cpp > CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/stack_queue/valid_bracket_20.cpp -o CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o: ../stack_queue/delete_str_1047.cpp
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o -c /home/wxw/Project/LeetCode_Cpp/stack_queue/delete_str_1047.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/stack_queue/delete_str_1047.cpp > CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/stack_queue/delete_str_1047.cpp -o CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o: ../stack_queue/polish_150.cpp
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o -c /home/wxw/Project/LeetCode_Cpp/stack_queue/polish_150.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/stack_queue/polish_150.cpp > CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/stack_queue/polish_150.cpp -o CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.s
+
 # Object files for target LeetCode_Cpp
 LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" \
@@ -490,7 +532,10 @@ LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/strings/find_num_28.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/strings/repeat_string_459.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/stack_queue/stack_to_queue_232.cpp.o" \
-"CMakeFiles/LeetCode_Cpp.dir/stack_queue/queue_to_stack_225.cpp.o"
+"CMakeFiles/LeetCode_Cpp.dir/stack_queue/queue_to_stack_225.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o"
 
 # External object files for target LeetCode_Cpp
 LeetCode_Cpp_EXTERNAL_OBJECTS =
@@ -523,9 +568,12 @@ LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/strings/find_num_28.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/strings/repeat_string_459.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/stack_queue/stack_to_queue_232.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/stack_queue/queue_to_stack_225.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/build.make
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable LeetCode_Cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Linking CXX executable LeetCode_Cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode_Cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

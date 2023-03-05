@@ -167,4 +167,9 @@ CMakeFiles/LeetCode_Cpp.dir/main.cpp.o: \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h \
- /home/wxw/Project/LeetCode_Cpp/strings/strings.h /usr/include/strings.h
+ /home/wxw/Project/LeetCode_Cpp/strings/strings.h /usr/include/strings.h \
+ /home/wxw/Project/LeetCode_Cpp/stack_queue/stack_queue.h \
+ /usr/include/c++/11/stack /usr/include/c++/11/deque \
+ /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
+ /usr/include/c++/11/bits/stl_stack.h /usr/include/c++/11/queue \
+ /usr/include/c++/11/bits/stl_queue.h

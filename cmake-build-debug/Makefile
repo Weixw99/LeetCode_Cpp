@@ -585,6 +585,54 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+stack_queue/delete_str_1047.o: stack_queue/delete_str_1047.cpp.o
+.PHONY : stack_queue/delete_str_1047.o
+
+# target to build an object file
+stack_queue/delete_str_1047.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.o
+.PHONY : stack_queue/delete_str_1047.cpp.o
+
+stack_queue/delete_str_1047.i: stack_queue/delete_str_1047.cpp.i
+.PHONY : stack_queue/delete_str_1047.i
+
+# target to preprocess a source file
+stack_queue/delete_str_1047.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.i
+.PHONY : stack_queue/delete_str_1047.cpp.i
+
+stack_queue/delete_str_1047.s: stack_queue/delete_str_1047.cpp.s
+.PHONY : stack_queue/delete_str_1047.s
+
+# target to generate assembly for a file
+stack_queue/delete_str_1047.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.s
+.PHONY : stack_queue/delete_str_1047.cpp.s
+
+stack_queue/polish_150.o: stack_queue/polish_150.cpp.o
+.PHONY : stack_queue/polish_150.o
+
+# target to build an object file
+stack_queue/polish_150.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.o
+.PHONY : stack_queue/polish_150.cpp.o
+
+stack_queue/polish_150.i: stack_queue/polish_150.cpp.i
+.PHONY : stack_queue/polish_150.i
+
+# target to preprocess a source file
+stack_queue/polish_150.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.i
+.PHONY : stack_queue/polish_150.cpp.i
+
+stack_queue/polish_150.s: stack_queue/polish_150.cpp.s
+.PHONY : stack_queue/polish_150.s
+
+# target to generate assembly for a file
+stack_queue/polish_150.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/polish_150.cpp.s
+.PHONY : stack_queue/polish_150.cpp.s
+
 stack_queue/queue_to_stack_225.o: stack_queue/queue_to_stack_225.cpp.o
 .PHONY : stack_queue/queue_to_stack_225.o
 
@@ -632,6 +680,30 @@ stack_queue/stack_to_queue_232.s: stack_queue/stack_to_queue_232.cpp.s
 stack_queue/stack_to_queue_232.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/stack_to_queue_232.cpp.s
 .PHONY : stack_queue/stack_to_queue_232.cpp.s
+
+stack_queue/valid_bracket_20.o: stack_queue/valid_bracket_20.cpp.o
+.PHONY : stack_queue/valid_bracket_20.o
+
+# target to build an object file
+stack_queue/valid_bracket_20.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.o
+.PHONY : stack_queue/valid_bracket_20.cpp.o
+
+stack_queue/valid_bracket_20.i: stack_queue/valid_bracket_20.cpp.i
+.PHONY : stack_queue/valid_bracket_20.i
+
+# target to preprocess a source file
+stack_queue/valid_bracket_20.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.i
+.PHONY : stack_queue/valid_bracket_20.cpp.i
+
+stack_queue/valid_bracket_20.s: stack_queue/valid_bracket_20.cpp.s
+.PHONY : stack_queue/valid_bracket_20.s
+
+# target to generate assembly for a file
+stack_queue/valid_bracket_20.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/valid_bracket_20.cpp.s
+.PHONY : stack_queue/valid_bracket_20.cpp.s
 
 strings/find_num_28.o: strings/find_num_28.cpp.o
 .PHONY : strings/find_num_28.o
@@ -867,12 +939,21 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... stack_queue/delete_str_1047.o"
+	@echo "... stack_queue/delete_str_1047.i"
+	@echo "... stack_queue/delete_str_1047.s"
+	@echo "... stack_queue/polish_150.o"
+	@echo "... stack_queue/polish_150.i"
+	@echo "... stack_queue/polish_150.s"
 	@echo "... stack_queue/queue_to_stack_225.o"
 	@echo "... stack_queue/queue_to_stack_225.i"
 	@echo "... stack_queue/queue_to_stack_225.s"
 	@echo "... stack_queue/stack_to_queue_232.o"
 	@echo "... stack_queue/stack_to_queue_232.i"
 	@echo "... stack_queue/stack_to_queue_232.s"
+	@echo "... stack_queue/valid_bracket_20.o"
+	@echo "... stack_queue/valid_bracket_20.i"
+	@echo "... stack_queue/valid_bracket_20.s"
 	@echo "... strings/find_num_28.o"
 	@echo "... strings/find_num_28.i"
 	@echo "... strings/find_num_28.s"

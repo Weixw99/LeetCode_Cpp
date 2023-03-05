@@ -148,6 +148,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/main.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/stack_queue/delete_str_1047.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/stack_queue/polish_150.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/stack_queue/queue_to_stack_225.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -155,6 +161,9 @@
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/stack_queue/stack_to_queue_232.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/stack_queue/valid_bracket_20.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/strings/find_num_28.cpp">
