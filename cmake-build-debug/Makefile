@@ -609,6 +609,30 @@ stack_queue/delete_str_1047.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/delete_str_1047.cpp.s
 .PHONY : stack_queue/delete_str_1047.cpp.s
 
+stack_queue/k_element_347.o: stack_queue/k_element_347.cpp.o
+.PHONY : stack_queue/k_element_347.o
+
+# target to build an object file
+stack_queue/k_element_347.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/k_element_347.cpp.o
+.PHONY : stack_queue/k_element_347.cpp.o
+
+stack_queue/k_element_347.i: stack_queue/k_element_347.cpp.i
+.PHONY : stack_queue/k_element_347.i
+
+# target to preprocess a source file
+stack_queue/k_element_347.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/k_element_347.cpp.i
+.PHONY : stack_queue/k_element_347.cpp.i
+
+stack_queue/k_element_347.s: stack_queue/k_element_347.cpp.s
+.PHONY : stack_queue/k_element_347.s
+
+# target to generate assembly for a file
+stack_queue/k_element_347.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/k_element_347.cpp.s
+.PHONY : stack_queue/k_element_347.cpp.s
+
 stack_queue/polish_150.o: stack_queue/polish_150.cpp.o
 .PHONY : stack_queue/polish_150.o
 
@@ -656,6 +680,30 @@ stack_queue/queue_to_stack_225.s: stack_queue/queue_to_stack_225.cpp.s
 stack_queue/queue_to_stack_225.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/queue_to_stack_225.cpp.s
 .PHONY : stack_queue/queue_to_stack_225.cpp.s
+
+stack_queue/slide_max_239.o: stack_queue/slide_max_239.cpp.o
+.PHONY : stack_queue/slide_max_239.o
+
+# target to build an object file
+stack_queue/slide_max_239.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/slide_max_239.cpp.o
+.PHONY : stack_queue/slide_max_239.cpp.o
+
+stack_queue/slide_max_239.i: stack_queue/slide_max_239.cpp.i
+.PHONY : stack_queue/slide_max_239.i
+
+# target to preprocess a source file
+stack_queue/slide_max_239.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/slide_max_239.cpp.i
+.PHONY : stack_queue/slide_max_239.cpp.i
+
+stack_queue/slide_max_239.s: stack_queue/slide_max_239.cpp.s
+.PHONY : stack_queue/slide_max_239.s
+
+# target to generate assembly for a file
+stack_queue/slide_max_239.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/stack_queue/slide_max_239.cpp.s
+.PHONY : stack_queue/slide_max_239.cpp.s
 
 stack_queue/stack_to_queue_232.o: stack_queue/stack_to_queue_232.cpp.o
 .PHONY : stack_queue/stack_to_queue_232.o
@@ -942,12 +990,18 @@ help:
 	@echo "... stack_queue/delete_str_1047.o"
 	@echo "... stack_queue/delete_str_1047.i"
 	@echo "... stack_queue/delete_str_1047.s"
+	@echo "... stack_queue/k_element_347.o"
+	@echo "... stack_queue/k_element_347.i"
+	@echo "... stack_queue/k_element_347.s"
 	@echo "... stack_queue/polish_150.o"
 	@echo "... stack_queue/polish_150.i"
 	@echo "... stack_queue/polish_150.s"
 	@echo "... stack_queue/queue_to_stack_225.o"
 	@echo "... stack_queue/queue_to_stack_225.i"
 	@echo "... stack_queue/queue_to_stack_225.s"
+	@echo "... stack_queue/slide_max_239.o"
+	@echo "... stack_queue/slide_max_239.i"
+	@echo "... stack_queue/slide_max_239.s"
 	@echo "... stack_queue/stack_to_queue_232.o"
 	@echo "... stack_queue/stack_to_queue_232.i"
 	@echo "... stack_queue/stack_to_queue_232.s"

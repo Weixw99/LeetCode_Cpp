@@ -9,6 +9,7 @@
 using namespace std;
 #include <stack>
 #include <queue>
+#include "unordered_map"
 
 /*******232. 用栈实现队列********/
 class MyQueue232 {
@@ -57,10 +58,31 @@ public:
 int make_main150();
 
 /*******239. 滑动窗口最大值********/
-
+class Solution239 {
+public:
+    vector<int> maxSlidingWindow(vector<int>& nums, int k);
+private:
+    class MyQueue{
+    public:
+        deque<int> que;
+        void pop(int value);
+        void push(int value);
+        int front();
+    };
+};
+int make_main239();
 
 /*******347.前 K 个高频元素********/
-
-
+class Solution347 {
+public:
+    vector<int> topKFrequent(vector<int>& nums, int k);
+    class my_comparison {  //自定义小顶堆的比较方式
+    public:
+        bool operator()(const pair<int, int>& lhs, const pair<int, int>& rhs) {
+            return lhs.second > rhs.second;
+        }
+    };
+};
+int make_main347();
 
 #endif //LEETCODE_CPP_STACK_QUEUE_H
