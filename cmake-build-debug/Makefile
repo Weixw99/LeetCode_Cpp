@@ -177,6 +177,78 @@ array/matrix_59.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.s
 .PHONY : array/matrix_59.cpp.s
 
+binary_tree/middle_order_traversal_94.o: binary_tree/middle_order_traversal_94.cpp.o
+.PHONY : binary_tree/middle_order_traversal_94.o
+
+# target to build an object file
+binary_tree/middle_order_traversal_94.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/middle_order_traversal_94.cpp.o
+.PHONY : binary_tree/middle_order_traversal_94.cpp.o
+
+binary_tree/middle_order_traversal_94.i: binary_tree/middle_order_traversal_94.cpp.i
+.PHONY : binary_tree/middle_order_traversal_94.i
+
+# target to preprocess a source file
+binary_tree/middle_order_traversal_94.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/middle_order_traversal_94.cpp.i
+.PHONY : binary_tree/middle_order_traversal_94.cpp.i
+
+binary_tree/middle_order_traversal_94.s: binary_tree/middle_order_traversal_94.cpp.s
+.PHONY : binary_tree/middle_order_traversal_94.s
+
+# target to generate assembly for a file
+binary_tree/middle_order_traversal_94.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/middle_order_traversal_94.cpp.s
+.PHONY : binary_tree/middle_order_traversal_94.cpp.s
+
+binary_tree/post_order_traversal_145.o: binary_tree/post_order_traversal_145.cpp.o
+.PHONY : binary_tree/post_order_traversal_145.o
+
+# target to build an object file
+binary_tree/post_order_traversal_145.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/post_order_traversal_145.cpp.o
+.PHONY : binary_tree/post_order_traversal_145.cpp.o
+
+binary_tree/post_order_traversal_145.i: binary_tree/post_order_traversal_145.cpp.i
+.PHONY : binary_tree/post_order_traversal_145.i
+
+# target to preprocess a source file
+binary_tree/post_order_traversal_145.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/post_order_traversal_145.cpp.i
+.PHONY : binary_tree/post_order_traversal_145.cpp.i
+
+binary_tree/post_order_traversal_145.s: binary_tree/post_order_traversal_145.cpp.s
+.PHONY : binary_tree/post_order_traversal_145.s
+
+# target to generate assembly for a file
+binary_tree/post_order_traversal_145.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/post_order_traversal_145.cpp.s
+.PHONY : binary_tree/post_order_traversal_145.cpp.s
+
+binary_tree/pre_order_traversal_144.o: binary_tree/pre_order_traversal_144.cpp.o
+.PHONY : binary_tree/pre_order_traversal_144.o
+
+# target to build an object file
+binary_tree/pre_order_traversal_144.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/pre_order_traversal_144.cpp.o
+.PHONY : binary_tree/pre_order_traversal_144.cpp.o
+
+binary_tree/pre_order_traversal_144.i: binary_tree/pre_order_traversal_144.cpp.i
+.PHONY : binary_tree/pre_order_traversal_144.i
+
+# target to preprocess a source file
+binary_tree/pre_order_traversal_144.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/pre_order_traversal_144.cpp.i
+.PHONY : binary_tree/pre_order_traversal_144.cpp.i
+
+binary_tree/pre_order_traversal_144.s: binary_tree/pre_order_traversal_144.cpp.s
+.PHONY : binary_tree/pre_order_traversal_144.s
+
+# target to generate assembly for a file
+binary_tree/pre_order_traversal_144.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/pre_order_traversal_144.cpp.s
+.PHONY : binary_tree/pre_order_traversal_144.cpp.s
+
 hash_table/anagrams_242.o: hash_table/anagrams_242.cpp.o
 .PHONY : hash_table/anagrams_242.o
 
@@ -936,6 +1008,15 @@ help:
 	@echo "... array/matrix_59.o"
 	@echo "... array/matrix_59.i"
 	@echo "... array/matrix_59.s"
+	@echo "... binary_tree/middle_order_traversal_94.o"
+	@echo "... binary_tree/middle_order_traversal_94.i"
+	@echo "... binary_tree/middle_order_traversal_94.s"
+	@echo "... binary_tree/post_order_traversal_145.o"
+	@echo "... binary_tree/post_order_traversal_145.i"
+	@echo "... binary_tree/post_order_traversal_145.s"
+	@echo "... binary_tree/pre_order_traversal_144.o"
+	@echo "... binary_tree/pre_order_traversal_144.i"
+	@echo "... binary_tree/pre_order_traversal_144.s"
 	@echo "... hash_table/anagrams_242.o"
 	@echo "... hash_table/anagrams_242.i"
 	@echo "... hash_table/anagrams_242.s"

@@ -91,6 +91,18 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/array/matrix_59.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/binary_tree.h">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/middle_order_traversal_94.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/post_order_traversal_145.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/pre_order_traversal_144.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

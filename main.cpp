@@ -3,6 +3,7 @@
 #include "hash_table/hash_table.h"  //链表头文件
 #include "strings/strings.h"
 #include "stack_queue/stack_queue.h"
+#include "binary_tree/binary_tree.h"
 
 int main ()
 {
