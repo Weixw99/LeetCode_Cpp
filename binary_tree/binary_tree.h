@@ -6,7 +6,7 @@
 #define LEETCODE_CPP_BINARY_TREE_H
 
 #include <iostream>
-
+#include "queue"
 #include <vector>
 using namespace std;
 
@@ -36,9 +36,16 @@ public:
     void traversal(TreeNode* root, vector<int> &result);
 };
 /*******102. 二叉树的层序遍历********/
-
+class Solution102 {
+public:
+    vector<vector<int>> levelOrder(TreeNode* root);
+};
 /*******226.翻转二叉树********/
-
+class Solution226 {
+public:
+    TreeNode* invertTree(TreeNode* root);
+};
+int make_main226();
 /*******101. 对称二叉树********/
 
 /*******104.二叉树的最大深度********/
