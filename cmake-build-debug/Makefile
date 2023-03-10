@@ -297,6 +297,30 @@ binary_tree/reverse_tree_226.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/reverse_tree_226.cpp.s
 .PHONY : binary_tree/reverse_tree_226.cpp.s
 
+binary_tree/symmetries_tree_101.o: binary_tree/symmetries_tree_101.cpp.o
+.PHONY : binary_tree/symmetries_tree_101.o
+
+# target to build an object file
+binary_tree/symmetries_tree_101.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o
+.PHONY : binary_tree/symmetries_tree_101.cpp.o
+
+binary_tree/symmetries_tree_101.i: binary_tree/symmetries_tree_101.cpp.i
+.PHONY : binary_tree/symmetries_tree_101.i
+
+# target to preprocess a source file
+binary_tree/symmetries_tree_101.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.i
+.PHONY : binary_tree/symmetries_tree_101.cpp.i
+
+binary_tree/symmetries_tree_101.s: binary_tree/symmetries_tree_101.cpp.s
+.PHONY : binary_tree/symmetries_tree_101.s
+
+# target to generate assembly for a file
+binary_tree/symmetries_tree_101.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.s
+.PHONY : binary_tree/symmetries_tree_101.cpp.s
+
 hash_table/anagrams_242.o: hash_table/anagrams_242.cpp.o
 .PHONY : hash_table/anagrams_242.o
 
@@ -1071,6 +1095,9 @@ help:
 	@echo "... binary_tree/reverse_tree_226.o"
 	@echo "... binary_tree/reverse_tree_226.i"
 	@echo "... binary_tree/reverse_tree_226.s"
+	@echo "... binary_tree/symmetries_tree_101.o"
+	@echo "... binary_tree/symmetries_tree_101.i"
+	@echo "... binary_tree/symmetries_tree_101.s"
 	@echo "... hash_table/anagrams_242.o"
 	@echo "... hash_table/anagrams_242.i"
 	@echo "... hash_table/anagrams_242.s"

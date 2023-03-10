@@ -109,6 +109,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/reverse_tree_226.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/symmetries_tree_101.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

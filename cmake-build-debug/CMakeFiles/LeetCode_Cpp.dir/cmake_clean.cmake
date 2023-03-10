@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode_Cpp.dir/binary_tree/pre_order_traversal_144.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/binary_tree/reverse_tree_226.cpp.o"
   "CMakeFiles/LeetCode_Cpp.dir/binary_tree/reverse_tree_226.cpp.o.d"
+  "CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o"
+  "CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.o"
   "CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.o"

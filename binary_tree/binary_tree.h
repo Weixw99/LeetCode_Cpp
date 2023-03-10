@@ -47,7 +47,12 @@ public:
 };
 int make_main226();
 /*******101. 对称二叉树********/
-
+class Solution101 {
+public:
+    bool isSymmetric(TreeNode* root);
+    bool compare(TreeNode* left, TreeNode* right);
+};
+int make_main101();
 /*******104.二叉树的最大深度********/
 
 /*******111.二叉树的最小深度********/
