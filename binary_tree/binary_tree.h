@@ -7,7 +7,8 @@
 
 #include <iostream>
 #include "queue"
-#include <vector>
+#include "vector"
+#include "stack"
 using namespace std;
 
 struct TreeNode {
@@ -54,13 +55,27 @@ public:
 };
 int make_main101();
 /*******104.二叉树的最大深度********/
-
+class Solution104 {
+public:
+    int maxDepth(TreeNode* root);
+};
+int make_main104();
 /*******111.二叉树的最小深度********/
-
+class Solution111 {
+public:
+    int minDepth(TreeNode* root);
+};
 /*******222.完全二叉树的节点个数********/
-
+class Solution222 {
+public:
+    int countNodes(TreeNode* root);
+};
 /*******110.平衡二叉树********/
-
+class Solution110 {
+public:
+    bool isBalanced(TreeNode* root);
+    int traversal(TreeNode* node, int high);
+};
 /*******257. 二叉树的所有路径********/
 
 /*******404.左叶子之和********/

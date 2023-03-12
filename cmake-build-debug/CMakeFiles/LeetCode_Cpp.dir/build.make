@@ -615,6 +615,62 @@ CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/binary_tree/symmetries_tree_101.cpp -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.s
 
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o: ../binary_tree/max_depth_104.cpp
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o -c /home/wxw/Project/LeetCode_Cpp/binary_tree/max_depth_104.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/binary_tree/max_depth_104.cpp > CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/binary_tree/max_depth_104.cpp -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o: ../binary_tree/min_depth_111.cpp
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o -c /home/wxw/Project/LeetCode_Cpp/binary_tree/min_depth_111.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/binary_tree/min_depth_111.cpp > CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/binary_tree/min_depth_111.cpp -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o: ../binary_tree/complete_node_num_222.cpp
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o -c /home/wxw/Project/LeetCode_Cpp/binary_tree/complete_node_num_222.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/binary_tree/complete_node_num_222.cpp > CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/binary_tree/complete_node_num_222.cpp -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o: ../binary_tree/balance_tree_110.cpp
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o -c /home/wxw/Project/LeetCode_Cpp/binary_tree/balance_tree_110.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/binary_tree/balance_tree_110.cpp > CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/binary_tree/balance_tree_110.cpp -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.s
+
 # Object files for target LeetCode_Cpp
 LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" \
@@ -655,7 +711,11 @@ LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/binary_tree/post_order_traversal_145.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/binary_tree/hierarchical_traversal_102.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/binary_tree/reverse_tree_226.cpp.o" \
-"CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o"
+"CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o"
 
 # External object files for target LeetCode_Cpp
 LeetCode_Cpp_EXTERNAL_OBJECTS =
@@ -699,9 +759,13 @@ LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/post_order_traversal_145.c
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/hierarchical_traversal_102.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/reverse_tree_226.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/max_depth_104.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/build.make
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable LeetCode_Cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Linking CXX executable LeetCode_Cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode_Cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
