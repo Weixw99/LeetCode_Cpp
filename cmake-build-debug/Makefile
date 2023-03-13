@@ -177,6 +177,30 @@ array/matrix_59.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.s
 .PHONY : array/matrix_59.cpp.s
 
+binary_tree/all_path_257.o: binary_tree/all_path_257.cpp.o
+.PHONY : binary_tree/all_path_257.o
+
+# target to build an object file
+binary_tree/all_path_257.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/all_path_257.cpp.o
+.PHONY : binary_tree/all_path_257.cpp.o
+
+binary_tree/all_path_257.i: binary_tree/all_path_257.cpp.i
+.PHONY : binary_tree/all_path_257.i
+
+# target to preprocess a source file
+binary_tree/all_path_257.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/all_path_257.cpp.i
+.PHONY : binary_tree/all_path_257.cpp.i
+
+binary_tree/all_path_257.s: binary_tree/all_path_257.cpp.s
+.PHONY : binary_tree/all_path_257.s
+
+# target to generate assembly for a file
+binary_tree/all_path_257.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/all_path_257.cpp.s
+.PHONY : binary_tree/all_path_257.cpp.s
+
 binary_tree/balance_tree_110.o: binary_tree/balance_tree_110.cpp.o
 .PHONY : binary_tree/balance_tree_110.o
 
@@ -1176,6 +1200,9 @@ help:
 	@echo "... array/matrix_59.o"
 	@echo "... array/matrix_59.i"
 	@echo "... array/matrix_59.s"
+	@echo "... binary_tree/all_path_257.o"
+	@echo "... binary_tree/all_path_257.i"
+	@echo "... binary_tree/all_path_257.s"
 	@echo "... binary_tree/balance_tree_110.o"
 	@echo "... binary_tree/balance_tree_110.i"
 	@echo "... binary_tree/balance_tree_110.s"

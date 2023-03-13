@@ -77,7 +77,13 @@ public:
     int traversal(TreeNode* node, int high);
 };
 /*******257. 二叉树的所有路径********/
-
+class Solution257 {
+public:
+    vector<string> binaryTreePaths(TreeNode* root);
+    void traversal(TreeNode* node, vector<int>& path, vector<string>& result);
+};
+TreeNode* init_tree(vector<int> num);
+int make_main257();
 /*******404.左叶子之和********/
 
 /*******513.找树左下角的值********/
