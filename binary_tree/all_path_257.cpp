@@ -14,6 +14,7 @@ TreeNode* init_tree(vector<int> num){
         }
     }
     for(int j = 0;j < num.size();j++){
+        if(!tree[j]) continue;
         if (2*(j+1) <= tree.size() && tree[2*j+1]){
             tree[j]->left = tree[2*j+1];
         }

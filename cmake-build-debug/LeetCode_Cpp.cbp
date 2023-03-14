@@ -106,6 +106,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/hierarchical_traversal_102.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/left_sum_404.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/left_val_513.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/max_depth_104.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

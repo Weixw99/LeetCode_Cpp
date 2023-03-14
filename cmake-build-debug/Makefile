@@ -273,6 +273,54 @@ binary_tree/hierarchical_traversal_102.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/hierarchical_traversal_102.cpp.s
 .PHONY : binary_tree/hierarchical_traversal_102.cpp.s
 
+binary_tree/left_sum_404.o: binary_tree/left_sum_404.cpp.o
+.PHONY : binary_tree/left_sum_404.o
+
+# target to build an object file
+binary_tree/left_sum_404.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/left_sum_404.cpp.o
+.PHONY : binary_tree/left_sum_404.cpp.o
+
+binary_tree/left_sum_404.i: binary_tree/left_sum_404.cpp.i
+.PHONY : binary_tree/left_sum_404.i
+
+# target to preprocess a source file
+binary_tree/left_sum_404.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/left_sum_404.cpp.i
+.PHONY : binary_tree/left_sum_404.cpp.i
+
+binary_tree/left_sum_404.s: binary_tree/left_sum_404.cpp.s
+.PHONY : binary_tree/left_sum_404.s
+
+# target to generate assembly for a file
+binary_tree/left_sum_404.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/left_sum_404.cpp.s
+.PHONY : binary_tree/left_sum_404.cpp.s
+
+binary_tree/left_val_513.o: binary_tree/left_val_513.cpp.o
+.PHONY : binary_tree/left_val_513.o
+
+# target to build an object file
+binary_tree/left_val_513.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/left_val_513.cpp.o
+.PHONY : binary_tree/left_val_513.cpp.o
+
+binary_tree/left_val_513.i: binary_tree/left_val_513.cpp.i
+.PHONY : binary_tree/left_val_513.i
+
+# target to preprocess a source file
+binary_tree/left_val_513.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/left_val_513.cpp.i
+.PHONY : binary_tree/left_val_513.cpp.i
+
+binary_tree/left_val_513.s: binary_tree/left_val_513.cpp.s
+.PHONY : binary_tree/left_val_513.s
+
+# target to generate assembly for a file
+binary_tree/left_val_513.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/left_val_513.cpp.s
+.PHONY : binary_tree/left_val_513.cpp.s
+
 binary_tree/max_depth_104.o: binary_tree/max_depth_104.cpp.o
 .PHONY : binary_tree/max_depth_104.o
 
@@ -1212,6 +1260,12 @@ help:
 	@echo "... binary_tree/hierarchical_traversal_102.o"
 	@echo "... binary_tree/hierarchical_traversal_102.i"
 	@echo "... binary_tree/hierarchical_traversal_102.s"
+	@echo "... binary_tree/left_sum_404.o"
+	@echo "... binary_tree/left_sum_404.i"
+	@echo "... binary_tree/left_sum_404.s"
+	@echo "... binary_tree/left_val_513.o"
+	@echo "... binary_tree/left_val_513.i"
+	@echo "... binary_tree/left_val_513.s"
 	@echo "... binary_tree/max_depth_104.o"
 	@echo "... binary_tree/max_depth_104.i"
 	@echo "... binary_tree/max_depth_104.s"

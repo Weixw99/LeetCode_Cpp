@@ -85,9 +85,21 @@ public:
 TreeNode* init_tree(vector<int> num);
 int make_main257();
 /*******404.左叶子之和********/
-
+class Solution404 {
+public:
+    int sumOfLeftLeaves(TreeNode* root);
+    void traversal(TreeNode* node, int &result);
+};
+int make_main404();
 /*******513.找树左下角的值********/
-
+class Solution513 {
+public:
+    int max_depth = 0;
+    int result;
+    int findBottomLeftValue(TreeNode* root);
+    void traversal(TreeNode* node, int depth);
+};
+int make_main513();
 /*******112. 路径总和********/
 
 /*******106.从中序与后序遍历序列构造二叉树********/
