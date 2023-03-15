@@ -249,6 +249,30 @@ binary_tree/complete_node_num_222.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/complete_node_num_222.cpp.s
 .PHONY : binary_tree/complete_node_num_222.cpp.s
 
+binary_tree/construct_tree_106.o: binary_tree/construct_tree_106.cpp.o
+.PHONY : binary_tree/construct_tree_106.o
+
+# target to build an object file
+binary_tree/construct_tree_106.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/construct_tree_106.cpp.o
+.PHONY : binary_tree/construct_tree_106.cpp.o
+
+binary_tree/construct_tree_106.i: binary_tree/construct_tree_106.cpp.i
+.PHONY : binary_tree/construct_tree_106.i
+
+# target to preprocess a source file
+binary_tree/construct_tree_106.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/construct_tree_106.cpp.i
+.PHONY : binary_tree/construct_tree_106.cpp.i
+
+binary_tree/construct_tree_106.s: binary_tree/construct_tree_106.cpp.s
+.PHONY : binary_tree/construct_tree_106.s
+
+# target to generate assembly for a file
+binary_tree/construct_tree_106.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/construct_tree_106.cpp.s
+.PHONY : binary_tree/construct_tree_106.cpp.s
+
 binary_tree/hierarchical_traversal_102.o: binary_tree/hierarchical_traversal_102.cpp.o
 .PHONY : binary_tree/hierarchical_traversal_102.o
 
@@ -392,6 +416,30 @@ binary_tree/min_depth_111.s: binary_tree/min_depth_111.cpp.s
 binary_tree/min_depth_111.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/min_depth_111.cpp.s
 .PHONY : binary_tree/min_depth_111.cpp.s
+
+binary_tree/path_sum_112.o: binary_tree/path_sum_112.cpp.o
+.PHONY : binary_tree/path_sum_112.o
+
+# target to build an object file
+binary_tree/path_sum_112.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/path_sum_112.cpp.o
+.PHONY : binary_tree/path_sum_112.cpp.o
+
+binary_tree/path_sum_112.i: binary_tree/path_sum_112.cpp.i
+.PHONY : binary_tree/path_sum_112.i
+
+# target to preprocess a source file
+binary_tree/path_sum_112.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/path_sum_112.cpp.i
+.PHONY : binary_tree/path_sum_112.cpp.i
+
+binary_tree/path_sum_112.s: binary_tree/path_sum_112.cpp.s
+.PHONY : binary_tree/path_sum_112.s
+
+# target to generate assembly for a file
+binary_tree/path_sum_112.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/path_sum_112.cpp.s
+.PHONY : binary_tree/path_sum_112.cpp.s
 
 binary_tree/post_order_traversal_145.o: binary_tree/post_order_traversal_145.cpp.o
 .PHONY : binary_tree/post_order_traversal_145.o
@@ -1257,6 +1305,9 @@ help:
 	@echo "... binary_tree/complete_node_num_222.o"
 	@echo "... binary_tree/complete_node_num_222.i"
 	@echo "... binary_tree/complete_node_num_222.s"
+	@echo "... binary_tree/construct_tree_106.o"
+	@echo "... binary_tree/construct_tree_106.i"
+	@echo "... binary_tree/construct_tree_106.s"
 	@echo "... binary_tree/hierarchical_traversal_102.o"
 	@echo "... binary_tree/hierarchical_traversal_102.i"
 	@echo "... binary_tree/hierarchical_traversal_102.s"
@@ -1275,6 +1326,9 @@ help:
 	@echo "... binary_tree/min_depth_111.o"
 	@echo "... binary_tree/min_depth_111.i"
 	@echo "... binary_tree/min_depth_111.s"
+	@echo "... binary_tree/path_sum_112.o"
+	@echo "... binary_tree/path_sum_112.i"
+	@echo "... binary_tree/path_sum_112.s"
 	@echo "... binary_tree/post_order_traversal_145.o"
 	@echo "... binary_tree/post_order_traversal_145.i"
 	@echo "... binary_tree/post_order_traversal_145.s"

@@ -101,9 +101,18 @@ public:
 };
 int make_main513();
 /*******112. 路径总和********/
-
+class Solution112 {
+public:
+    bool hasPathSum(TreeNode* root, int targetSum);
+    bool traversal(TreeNode* root, vector<int> path, int targetSum);
+};
 /*******106.从中序与后序遍历序列构造二叉树********/
-
+class Solution106 {
+public:
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder);
+    TreeNode* traversal(vector<int> inorder, vector<int> postorder);
+};
+int make_main106();
 /*******654.最大二叉树********/
 
 /*******617.合并二叉树********/

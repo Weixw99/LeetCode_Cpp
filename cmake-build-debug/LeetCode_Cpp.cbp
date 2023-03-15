@@ -103,6 +103,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/complete_node_num_222.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/construct_tree_106.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/hierarchical_traversal_102.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -119,6 +122,9 @@
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/min_depth_111.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/path_sum_112.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/post_order_traversal_145.cpp">
