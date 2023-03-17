@@ -118,6 +118,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/max_depth_104.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/max_tree_654.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/merger_tree_617.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/middle_order_traversal_94.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -136,7 +142,13 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/reverse_tree_226.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/search_tree_700.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/symmetries_tree_101.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/verify_tree_98.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp">

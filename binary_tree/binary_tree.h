@@ -9,6 +9,7 @@
 #include "queue"
 #include "vector"
 #include "stack"
+#include <climits>
 using namespace std;
 
 struct TreeNode {
@@ -114,13 +115,30 @@ public:
 };
 int make_main106();
 /*******654.最大二叉树********/
-
+class Solution654 {
+public:
+    TreeNode* constructMaximumBinaryTree(vector<int>& nums);
+    TreeNode* traversal(vector<int> nums);
+};
+int make_main654();
 /*******617.合并二叉树********/
-
+class Solution617 {
+public:
+    TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2);
+};
 /*******700.二叉搜索树中的搜索********/
-
+class Solution700 {
+public:
+    TreeNode* searchBST(TreeNode* root, int val);
+};
+int make_main700();
 /*******98.验证二叉搜索树********/
-
+class Solution98 {
+public:
+    long long maxVal = LONG_MIN;
+    bool isValidBST(TreeNode* root);
+    bool traversal(TreeNode*);
+};
 /*******530.二叉搜索树的最小绝对差********/
 
 /*******501.二叉搜索树中的众数********/

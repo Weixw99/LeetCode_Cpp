@@ -19,6 +19,6 @@ int test(){
 int main ()
 {
     //test();
-    make_main106();
+    make_main654();
     return 0;
 }
