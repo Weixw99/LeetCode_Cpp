@@ -177,6 +177,30 @@ array/matrix_59.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.s
 .PHONY : array/matrix_59.cpp.s
 
+binary_tree/abs_num_530.o: binary_tree/abs_num_530.cpp.o
+.PHONY : binary_tree/abs_num_530.o
+
+# target to build an object file
+binary_tree/abs_num_530.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/abs_num_530.cpp.o
+.PHONY : binary_tree/abs_num_530.cpp.o
+
+binary_tree/abs_num_530.i: binary_tree/abs_num_530.cpp.i
+.PHONY : binary_tree/abs_num_530.i
+
+# target to preprocess a source file
+binary_tree/abs_num_530.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/abs_num_530.cpp.i
+.PHONY : binary_tree/abs_num_530.cpp.i
+
+binary_tree/abs_num_530.s: binary_tree/abs_num_530.cpp.s
+.PHONY : binary_tree/abs_num_530.s
+
+# target to generate assembly for a file
+binary_tree/abs_num_530.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/abs_num_530.cpp.s
+.PHONY : binary_tree/abs_num_530.cpp.s
+
 binary_tree/all_path_257.o: binary_tree/all_path_257.cpp.o
 .PHONY : binary_tree/all_path_257.o
 
@@ -272,6 +296,30 @@ binary_tree/construct_tree_106.s: binary_tree/construct_tree_106.cpp.s
 binary_tree/construct_tree_106.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/construct_tree_106.cpp.s
 .PHONY : binary_tree/construct_tree_106.cpp.s
+
+binary_tree/crowd_tree_501.o: binary_tree/crowd_tree_501.cpp.o
+.PHONY : binary_tree/crowd_tree_501.o
+
+# target to build an object file
+binary_tree/crowd_tree_501.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/crowd_tree_501.cpp.o
+.PHONY : binary_tree/crowd_tree_501.cpp.o
+
+binary_tree/crowd_tree_501.i: binary_tree/crowd_tree_501.cpp.i
+.PHONY : binary_tree/crowd_tree_501.i
+
+# target to preprocess a source file
+binary_tree/crowd_tree_501.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/crowd_tree_501.cpp.i
+.PHONY : binary_tree/crowd_tree_501.cpp.i
+
+binary_tree/crowd_tree_501.s: binary_tree/crowd_tree_501.cpp.s
+.PHONY : binary_tree/crowd_tree_501.s
+
+# target to generate assembly for a file
+binary_tree/crowd_tree_501.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/crowd_tree_501.cpp.s
+.PHONY : binary_tree/crowd_tree_501.cpp.s
 
 binary_tree/hierarchical_traversal_102.o: binary_tree/hierarchical_traversal_102.cpp.o
 .PHONY : binary_tree/hierarchical_traversal_102.o
@@ -536,6 +584,30 @@ binary_tree/pre_order_traversal_144.s: binary_tree/pre_order_traversal_144.cpp.s
 binary_tree/pre_order_traversal_144.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/pre_order_traversal_144.cpp.s
 .PHONY : binary_tree/pre_order_traversal_144.cpp.s
+
+binary_tree/public_ancestors_236.o: binary_tree/public_ancestors_236.cpp.o
+.PHONY : binary_tree/public_ancestors_236.o
+
+# target to build an object file
+binary_tree/public_ancestors_236.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.o
+.PHONY : binary_tree/public_ancestors_236.cpp.o
+
+binary_tree/public_ancestors_236.i: binary_tree/public_ancestors_236.cpp.i
+.PHONY : binary_tree/public_ancestors_236.i
+
+# target to preprocess a source file
+binary_tree/public_ancestors_236.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.i
+.PHONY : binary_tree/public_ancestors_236.cpp.i
+
+binary_tree/public_ancestors_236.s: binary_tree/public_ancestors_236.cpp.s
+.PHONY : binary_tree/public_ancestors_236.s
+
+# target to generate assembly for a file
+binary_tree/public_ancestors_236.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.s
+.PHONY : binary_tree/public_ancestors_236.cpp.s
 
 binary_tree/reverse_tree_226.o: binary_tree/reverse_tree_226.cpp.o
 .PHONY : binary_tree/reverse_tree_226.o
@@ -1392,6 +1464,9 @@ help:
 	@echo "... array/matrix_59.o"
 	@echo "... array/matrix_59.i"
 	@echo "... array/matrix_59.s"
+	@echo "... binary_tree/abs_num_530.o"
+	@echo "... binary_tree/abs_num_530.i"
+	@echo "... binary_tree/abs_num_530.s"
 	@echo "... binary_tree/all_path_257.o"
 	@echo "... binary_tree/all_path_257.i"
 	@echo "... binary_tree/all_path_257.s"
@@ -1404,6 +1479,9 @@ help:
 	@echo "... binary_tree/construct_tree_106.o"
 	@echo "... binary_tree/construct_tree_106.i"
 	@echo "... binary_tree/construct_tree_106.s"
+	@echo "... binary_tree/crowd_tree_501.o"
+	@echo "... binary_tree/crowd_tree_501.i"
+	@echo "... binary_tree/crowd_tree_501.s"
 	@echo "... binary_tree/hierarchical_traversal_102.o"
 	@echo "... binary_tree/hierarchical_traversal_102.i"
 	@echo "... binary_tree/hierarchical_traversal_102.s"
@@ -1437,6 +1515,9 @@ help:
 	@echo "... binary_tree/pre_order_traversal_144.o"
 	@echo "... binary_tree/pre_order_traversal_144.i"
 	@echo "... binary_tree/pre_order_traversal_144.s"
+	@echo "... binary_tree/public_ancestors_236.o"
+	@echo "... binary_tree/public_ancestors_236.i"
+	@echo "... binary_tree/public_ancestors_236.s"
 	@echo "... binary_tree/reverse_tree_226.o"
 	@echo "... binary_tree/reverse_tree_226.i"
 	@echo "... binary_tree/reverse_tree_226.s"

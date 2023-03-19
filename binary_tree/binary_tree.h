@@ -140,11 +140,22 @@ public:
     bool traversal(TreeNode*);
 };
 /*******530.二叉搜索树的最小绝对差********/
-
+class Solution530 {
+public:
+    int getMinimumDifference(TreeNode* root);
+};
 /*******501.二叉搜索树中的众数********/
-
+class Solution501 {
+public:
+    vector<int> findMode(TreeNode* root);
+};
+int make_main501();
 /*******236. 二叉树的最近公共祖先********/
-
+class Solution236 {
+public:
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q);
+    vector<TreeNode *> traversal(TreeNode *root, TreeNode* find);
+};
 /*******235. 二叉搜索树的最近公共祖先********/
 
 /*******701.二叉搜索树中的插入操作********/
