@@ -345,6 +345,30 @@ binary_tree/hierarchical_traversal_102.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/hierarchical_traversal_102.cpp.s
 .PHONY : binary_tree/hierarchical_traversal_102.cpp.s
 
+binary_tree/insert_num_701.o: binary_tree/insert_num_701.cpp.o
+.PHONY : binary_tree/insert_num_701.o
+
+# target to build an object file
+binary_tree/insert_num_701.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o
+.PHONY : binary_tree/insert_num_701.cpp.o
+
+binary_tree/insert_num_701.i: binary_tree/insert_num_701.cpp.i
+.PHONY : binary_tree/insert_num_701.i
+
+# target to preprocess a source file
+binary_tree/insert_num_701.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.i
+.PHONY : binary_tree/insert_num_701.cpp.i
+
+binary_tree/insert_num_701.s: binary_tree/insert_num_701.cpp.s
+.PHONY : binary_tree/insert_num_701.s
+
+# target to generate assembly for a file
+binary_tree/insert_num_701.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.s
+.PHONY : binary_tree/insert_num_701.cpp.s
+
 binary_tree/left_sum_404.o: binary_tree/left_sum_404.cpp.o
 .PHONY : binary_tree/left_sum_404.o
 
@@ -608,6 +632,30 @@ binary_tree/public_ancestors_236.s: binary_tree/public_ancestors_236.cpp.s
 binary_tree/public_ancestors_236.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.s
 .PHONY : binary_tree/public_ancestors_236.cpp.s
+
+binary_tree/public_rearch_235.o: binary_tree/public_rearch_235.cpp.o
+.PHONY : binary_tree/public_rearch_235.o
+
+# target to build an object file
+binary_tree/public_rearch_235.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o
+.PHONY : binary_tree/public_rearch_235.cpp.o
+
+binary_tree/public_rearch_235.i: binary_tree/public_rearch_235.cpp.i
+.PHONY : binary_tree/public_rearch_235.i
+
+# target to preprocess a source file
+binary_tree/public_rearch_235.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.i
+.PHONY : binary_tree/public_rearch_235.cpp.i
+
+binary_tree/public_rearch_235.s: binary_tree/public_rearch_235.cpp.s
+.PHONY : binary_tree/public_rearch_235.s
+
+# target to generate assembly for a file
+binary_tree/public_rearch_235.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.s
+.PHONY : binary_tree/public_rearch_235.cpp.s
 
 binary_tree/reverse_tree_226.o: binary_tree/reverse_tree_226.cpp.o
 .PHONY : binary_tree/reverse_tree_226.o
@@ -1485,6 +1533,9 @@ help:
 	@echo "... binary_tree/hierarchical_traversal_102.o"
 	@echo "... binary_tree/hierarchical_traversal_102.i"
 	@echo "... binary_tree/hierarchical_traversal_102.s"
+	@echo "... binary_tree/insert_num_701.o"
+	@echo "... binary_tree/insert_num_701.i"
+	@echo "... binary_tree/insert_num_701.s"
 	@echo "... binary_tree/left_sum_404.o"
 	@echo "... binary_tree/left_sum_404.i"
 	@echo "... binary_tree/left_sum_404.s"
@@ -1518,6 +1569,9 @@ help:
 	@echo "... binary_tree/public_ancestors_236.o"
 	@echo "... binary_tree/public_ancestors_236.i"
 	@echo "... binary_tree/public_ancestors_236.s"
+	@echo "... binary_tree/public_rearch_235.o"
+	@echo "... binary_tree/public_rearch_235.i"
+	@echo "... binary_tree/public_rearch_235.s"
 	@echo "... binary_tree/reverse_tree_226.o"
 	@echo "... binary_tree/reverse_tree_226.i"
 	@echo "... binary_tree/reverse_tree_226.s"

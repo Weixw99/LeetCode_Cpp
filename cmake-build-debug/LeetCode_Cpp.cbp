@@ -115,6 +115,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/hierarchical_traversal_102.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/insert_num_701.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/left_sum_404.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -146,6 +149,9 @@
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/public_ancestors_236.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/public_rearch_235.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/reverse_tree_226.cpp">

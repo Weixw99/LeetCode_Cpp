@@ -839,6 +839,34 @@ CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/binary_tree/public_ancestors_236.cpp -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.s
 
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o: ../binary_tree/public_rearch_235.cpp
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o -c /home/wxw/Project/LeetCode_Cpp/binary_tree/public_rearch_235.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/binary_tree/public_rearch_235.cpp > CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/binary_tree/public_rearch_235.cpp -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o: ../binary_tree/insert_num_701.cpp
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o -c /home/wxw/Project/LeetCode_Cpp/binary_tree/insert_num_701.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/binary_tree/insert_num_701.cpp > CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/binary_tree/insert_num_701.cpp -o CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.s
+
 # Object files for target LeetCode_Cpp
 LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" \
@@ -895,7 +923,9 @@ LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/binary_tree/abs_num_530.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/binary_tree/crowd_tree_501.cpp.o" \
-"CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.o"
+"CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o"
 
 # External object files for target LeetCode_Cpp
 LeetCode_Cpp_EXTERNAL_OBJECTS =
@@ -955,9 +985,11 @@ LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/abs_num_530.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/crowd_tree_501.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_ancestors_236.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/public_rearch_235.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/binary_tree/insert_num_701.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/build.make
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking CXX executable LeetCode_Cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Linking CXX executable LeetCode_Cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode_Cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

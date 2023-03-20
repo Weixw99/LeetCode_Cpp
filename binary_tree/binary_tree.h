@@ -157,9 +157,16 @@ public:
     vector<TreeNode *> traversal(TreeNode *root, TreeNode* find);
 };
 /*******235. 二叉搜索树的最近公共祖先********/
-
+class Solution235 {
+public:
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q);
+    TreeNode* traversal(TreeNode* cur, TreeNode* p, TreeNode* q);
+};
 /*******701.二叉搜索树中的插入操作********/
-
+class Solution701 {
+public:
+    TreeNode* insertIntoBST(TreeNode* root, int val);
+};
 /*******450.删除二叉搜索树中的节点********/
 
 /*******669. 修剪二叉搜索树********/
