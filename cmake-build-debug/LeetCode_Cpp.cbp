@@ -112,6 +112,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/crowd_tree_501.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/delete_tree_450.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/hierarchical_traversal_102.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -139,6 +142,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/min_depth_111.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/modify_tree_669.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/nums_to_search_108.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/path_sum_112.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -155,6 +164,9 @@
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/reverse_tree_226.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/search_to_leijia_538.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/search_tree_700.cpp">

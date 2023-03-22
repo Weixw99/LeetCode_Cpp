@@ -168,11 +168,26 @@ public:
     TreeNode* insertIntoBST(TreeNode* root, int val);
 };
 /*******450.删除二叉搜索树中的节点********/
-
+class Solution450 {
+public:
+    TreeNode* deleteNode(TreeNode* root, int key);
+};
 /*******669. 修剪二叉搜索树********/
-
+class Solution669 {
+public:
+    TreeNode* trimBST(TreeNode* root, int low, int high);
+};
+int make_main669();
 /*******108.将有序数组转换为二叉搜索树********/
-
+class Solution108 {
+public:
+    TreeNode* sortedArrayToBST(vector<int>& nums);
+};
 /*******538.把二叉搜索树转换为累加树********/
-
+class Solution538 {
+public:
+    TreeNode* convertBST(TreeNode* root);
+    void traversal(TreeNode *root, int &num);
+};
+int make_main538();
 #endif //LEETCODE_CPP_BINARY_TREE_H

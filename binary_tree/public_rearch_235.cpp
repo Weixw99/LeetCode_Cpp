@@ -5,9 +5,7 @@
 
 TreeNode* Solution235::traversal(TreeNode *cur, TreeNode *p, TreeNode *q) {
 
-
 }
-
 TreeNode* Solution235::lowestCommonAncestor(TreeNode *root, TreeNode *p, TreeNode *q) {
     if(root == nullptr || root == p || root == q) return root;
     TreeNode* left = lowestCommonAncestor(root->left, p, q);
