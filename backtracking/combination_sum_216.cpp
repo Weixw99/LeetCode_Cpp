@@ -18,7 +18,6 @@ void Solution216::backtracking(int k, int n, int startIndex) {
         backtracking(k, n, i+1);
         num.pop_back();
     }
-
 }
 
 vector<vector<int>> Solution216::combinationSum3(int k, int n) {
