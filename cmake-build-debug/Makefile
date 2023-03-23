@@ -177,6 +177,54 @@ array/matrix_59.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.s
 .PHONY : array/matrix_59.cpp.s
 
+backtracking/combination_77.o: backtracking/combination_77.cpp.o
+.PHONY : backtracking/combination_77.o
+
+# target to build an object file
+backtracking/combination_77.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.o
+.PHONY : backtracking/combination_77.cpp.o
+
+backtracking/combination_77.i: backtracking/combination_77.cpp.i
+.PHONY : backtracking/combination_77.i
+
+# target to preprocess a source file
+backtracking/combination_77.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.i
+.PHONY : backtracking/combination_77.cpp.i
+
+backtracking/combination_77.s: backtracking/combination_77.cpp.s
+.PHONY : backtracking/combination_77.s
+
+# target to generate assembly for a file
+backtracking/combination_77.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.s
+.PHONY : backtracking/combination_77.cpp.s
+
+backtracking/combination_sum_216.o: backtracking/combination_sum_216.cpp.o
+.PHONY : backtracking/combination_sum_216.o
+
+# target to build an object file
+backtracking/combination_sum_216.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.o
+.PHONY : backtracking/combination_sum_216.cpp.o
+
+backtracking/combination_sum_216.i: backtracking/combination_sum_216.cpp.i
+.PHONY : backtracking/combination_sum_216.i
+
+# target to preprocess a source file
+backtracking/combination_sum_216.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.i
+.PHONY : backtracking/combination_sum_216.cpp.i
+
+backtracking/combination_sum_216.s: backtracking/combination_sum_216.cpp.s
+.PHONY : backtracking/combination_sum_216.s
+
+# target to generate assembly for a file
+backtracking/combination_sum_216.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.s
+.PHONY : backtracking/combination_sum_216.cpp.s
+
 binary_tree/abs_num_530.o: binary_tree/abs_num_530.cpp.o
 .PHONY : binary_tree/abs_num_530.o
 
@@ -1608,6 +1656,12 @@ help:
 	@echo "... array/matrix_59.o"
 	@echo "... array/matrix_59.i"
 	@echo "... array/matrix_59.s"
+	@echo "... backtracking/combination_77.o"
+	@echo "... backtracking/combination_77.i"
+	@echo "... backtracking/combination_77.s"
+	@echo "... backtracking/combination_sum_216.o"
+	@echo "... backtracking/combination_sum_216.i"
+	@echo "... backtracking/combination_sum_216.s"
 	@echo "... binary_tree/abs_num_530.o"
 	@echo "... binary_tree/abs_num_530.i"
 	@echo "... binary_tree/abs_num_530.s"
