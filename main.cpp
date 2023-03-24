@@ -20,6 +20,6 @@ int test(){
 int main ()
 {
     //test();
-    make_main538();
+    make_main39();
     return 0;
 }

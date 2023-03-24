@@ -100,6 +100,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/combination_sum_216.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/combination_sum_39.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/phone_num_17.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/abs_num_530.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

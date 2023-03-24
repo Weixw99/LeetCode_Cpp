@@ -12,6 +12,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/wxw/Project/LeetCode_Cpp/array/matrix_59.cpp" "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/backtracking/combination_77.cpp" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/backtracking/combination_sum_216.cpp" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/backtracking/combination_sum_39.cpp" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_39.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_39.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/backtracking/phone_num_17.cpp" "CMakeFiles/LeetCode_Cpp.dir/backtracking/phone_num_17.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/backtracking/phone_num_17.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/binary_tree/abs_num_530.cpp" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/abs_num_530.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/abs_num_530.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/binary_tree/all_path_257.cpp" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/all_path_257.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/all_path_257.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/binary_tree/balance_tree_110.cpp" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/balance_tree_110.cpp.o.d"

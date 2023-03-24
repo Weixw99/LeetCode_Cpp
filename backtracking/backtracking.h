@@ -25,9 +25,24 @@ public:
     void backtracking(int k, int n, int startIndex);
 };
 /*******17.电话号码的字母组合********/
-
+class Solution17 {
+public:
+    vector<string> ward = { "", "","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz",};
+    vector<string> result;
+    string path;
+    vector<string> letterCombinations(string digits);
+    void backtracking(string digits, int startIndex);
+};
+int make_main17();
 /*******39. 组合总和********/
-
+class Solution39 {
+public:
+    vector<vector<int>> result;
+    vector<int> path;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target);
+    void backtracking(vector<int> &candidates, int target, int startIndex);
+};
+int make_main39();
 /*******40.组合总和II********/
 
 /*******131.分割回文串********/

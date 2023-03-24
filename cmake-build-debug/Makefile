@@ -225,6 +225,54 @@ backtracking/combination_sum_216.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.s
 .PHONY : backtracking/combination_sum_216.cpp.s
 
+backtracking/combination_sum_39.o: backtracking/combination_sum_39.cpp.o
+.PHONY : backtracking/combination_sum_39.o
+
+# target to build an object file
+backtracking/combination_sum_39.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_39.cpp.o
+.PHONY : backtracking/combination_sum_39.cpp.o
+
+backtracking/combination_sum_39.i: backtracking/combination_sum_39.cpp.i
+.PHONY : backtracking/combination_sum_39.i
+
+# target to preprocess a source file
+backtracking/combination_sum_39.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_39.cpp.i
+.PHONY : backtracking/combination_sum_39.cpp.i
+
+backtracking/combination_sum_39.s: backtracking/combination_sum_39.cpp.s
+.PHONY : backtracking/combination_sum_39.s
+
+# target to generate assembly for a file
+backtracking/combination_sum_39.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_39.cpp.s
+.PHONY : backtracking/combination_sum_39.cpp.s
+
+backtracking/phone_num_17.o: backtracking/phone_num_17.cpp.o
+.PHONY : backtracking/phone_num_17.o
+
+# target to build an object file
+backtracking/phone_num_17.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/phone_num_17.cpp.o
+.PHONY : backtracking/phone_num_17.cpp.o
+
+backtracking/phone_num_17.i: backtracking/phone_num_17.cpp.i
+.PHONY : backtracking/phone_num_17.i
+
+# target to preprocess a source file
+backtracking/phone_num_17.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/phone_num_17.cpp.i
+.PHONY : backtracking/phone_num_17.cpp.i
+
+backtracking/phone_num_17.s: backtracking/phone_num_17.cpp.s
+.PHONY : backtracking/phone_num_17.s
+
+# target to generate assembly for a file
+backtracking/phone_num_17.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/phone_num_17.cpp.s
+.PHONY : backtracking/phone_num_17.cpp.s
+
 binary_tree/abs_num_530.o: binary_tree/abs_num_530.cpp.o
 .PHONY : binary_tree/abs_num_530.o
 
@@ -1662,6 +1710,12 @@ help:
 	@echo "... backtracking/combination_sum_216.o"
 	@echo "... backtracking/combination_sum_216.i"
 	@echo "... backtracking/combination_sum_216.s"
+	@echo "... backtracking/combination_sum_39.o"
+	@echo "... backtracking/combination_sum_39.i"
+	@echo "... backtracking/combination_sum_39.s"
+	@echo "... backtracking/phone_num_17.o"
+	@echo "... backtracking/phone_num_17.i"
+	@echo "... backtracking/phone_num_17.s"
 	@echo "... binary_tree/abs_num_530.o"
 	@echo "... binary_tree/abs_num_530.i"
 	@echo "... binary_tree/abs_num_530.s"
