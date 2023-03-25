@@ -7,6 +7,7 @@
 #include <iostream>
 using namespace std;
 #include "vector"
+#include<algorithm>
 
 /*******77. 组合********/
 class Solution77 {
@@ -44,9 +45,21 @@ public:
 };
 int make_main39();
 /*******40.组合总和II********/
-
+class Solution40 {
+public:
+    vector<vector<int>> result;
+    vector<int> path;
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target);
+    void backtracking(vector<int> &candidates, int target, int startIndex);
+};
 /*******131.分割回文串********/
-
+class Solution131 {
+public:
+    vector<vector<string>> result;
+    vector<string> path;
+    vector<vector<string>> partition(string s);
+    void backtracking(string s, int startIndex);
+};
 /*******93.复原IP地址********/
 
 /*******78.子集********/
