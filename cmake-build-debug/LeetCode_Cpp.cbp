@@ -106,10 +106,19 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/combination_sum_39.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/copy_ip_93.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/phone_num_17.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
-		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/split_string.cpp">
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_78.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_90.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/split_string_131.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/abs_num_530.cpp">

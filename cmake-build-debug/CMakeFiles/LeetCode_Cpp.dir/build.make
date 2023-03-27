@@ -993,19 +993,61 @@ CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum2_40.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum2_40.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/combination_sum2_40.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum2_40.cpp.s
 
-CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
-CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o: ../backtracking/split_string.cpp
-CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o -c /home/wxw/Project/LeetCode_Cpp/backtracking/split_string.cpp
+CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o: ../backtracking/split_string_131.cpp
+CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o -c /home/wxw/Project/LeetCode_Cpp/backtracking/split_string_131.cpp
 
-CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/backtracking/split_string.cpp > CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.i
+CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/backtracking/split_string_131.cpp > CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.i
 
-CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/split_string.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.s
+CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/split_string_131.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o: ../backtracking/copy_ip_93.cpp
+CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o -c /home/wxw/Project/LeetCode_Cpp/backtracking/copy_ip_93.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/backtracking/copy_ip_93.cpp > CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/copy_ip_93.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o: ../backtracking/son_combination_78.cpp
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o -c /home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_78.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_78.cpp > CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_78.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o: ../backtracking/son_combination_90.cpp
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o -c /home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_90.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_90.cpp > CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_90.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.s
 
 # Object files for target LeetCode_Cpp
 LeetCode_Cpp_OBJECTS = \
@@ -1075,7 +1117,10 @@ LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/backtracking/phone_num_17.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_39.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum2_40.cpp.o" \
-"CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o"
+"CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o"
 
 # External object files for target LeetCode_Cpp
 LeetCode_Cpp_EXTERNAL_OBJECTS =
@@ -1146,10 +1191,13 @@ LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/phone_num_17.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_39.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum2_40.cpp.o
-LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/build.make
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Linking CXX executable LeetCode_Cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Linking CXX executable LeetCode_Cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode_Cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

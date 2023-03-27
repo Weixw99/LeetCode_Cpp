@@ -61,11 +61,30 @@ public:
     void backtracking(string s, int startIndex);
 };
 /*******93.复原IP地址********/
-
+class Solution93 {
+public:
+    vector<string> result;
+    vector<string> path;
+    vector<string> restoreIpAddresses(string s);
+    void backtracking(string s, int startIndex);
+};
+int make_main93();
 /*******78.子集********/
-
+class Solution78 {
+public:
+    vector<vector<int>>  result;
+    vector<int> path;
+    vector<vector<int>> subsets(vector<int>& nums);
+    void backtracking(vector<int> nums, int startIndex);
+};
 /*******90.子集II********/
-
+class Solution90 {
+public:
+    vector<vector<int>>  result;
+    vector<int> path;
+    vector<vector<int>> subsetsWithDup(vector<int>& nums);
+    void backtracking(vector<int> nums, int startIndex);
+};
 /*******491.递增子序列********/
 
 /*******46.全排列********/
