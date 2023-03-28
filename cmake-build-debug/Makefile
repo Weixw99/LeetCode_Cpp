@@ -297,6 +297,78 @@ backtracking/copy_ip_93.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.s
 .PHONY : backtracking/copy_ip_93.cpp.s
 
+backtracking/full_array2_47.o: backtracking/full_array2_47.cpp.o
+.PHONY : backtracking/full_array2_47.o
+
+# target to build an object file
+backtracking/full_array2_47.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o
+.PHONY : backtracking/full_array2_47.cpp.o
+
+backtracking/full_array2_47.i: backtracking/full_array2_47.cpp.i
+.PHONY : backtracking/full_array2_47.i
+
+# target to preprocess a source file
+backtracking/full_array2_47.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.i
+.PHONY : backtracking/full_array2_47.cpp.i
+
+backtracking/full_array2_47.s: backtracking/full_array2_47.cpp.s
+.PHONY : backtracking/full_array2_47.s
+
+# target to generate assembly for a file
+backtracking/full_array2_47.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.s
+.PHONY : backtracking/full_array2_47.cpp.s
+
+backtracking/full_array_46.o: backtracking/full_array_46.cpp.o
+.PHONY : backtracking/full_array_46.o
+
+# target to build an object file
+backtracking/full_array_46.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o
+.PHONY : backtracking/full_array_46.cpp.o
+
+backtracking/full_array_46.i: backtracking/full_array_46.cpp.i
+.PHONY : backtracking/full_array_46.i
+
+# target to preprocess a source file
+backtracking/full_array_46.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.i
+.PHONY : backtracking/full_array_46.cpp.i
+
+backtracking/full_array_46.s: backtracking/full_array_46.cpp.s
+.PHONY : backtracking/full_array_46.s
+
+# target to generate assembly for a file
+backtracking/full_array_46.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.s
+.PHONY : backtracking/full_array_46.cpp.s
+
+backtracking/inscrean_son_491.o: backtracking/inscrean_son_491.cpp.o
+.PHONY : backtracking/inscrean_son_491.o
+
+# target to build an object file
+backtracking/inscrean_son_491.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o
+.PHONY : backtracking/inscrean_son_491.cpp.o
+
+backtracking/inscrean_son_491.i: backtracking/inscrean_son_491.cpp.i
+.PHONY : backtracking/inscrean_son_491.i
+
+# target to preprocess a source file
+backtracking/inscrean_son_491.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.i
+.PHONY : backtracking/inscrean_son_491.cpp.i
+
+backtracking/inscrean_son_491.s: backtracking/inscrean_son_491.cpp.s
+.PHONY : backtracking/inscrean_son_491.s
+
+# target to generate assembly for a file
+backtracking/inscrean_son_491.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.s
+.PHONY : backtracking/inscrean_son_491.cpp.s
+
 backtracking/phone_num_17.o: backtracking/phone_num_17.cpp.o
 .PHONY : backtracking/phone_num_17.o
 
@@ -1839,6 +1911,15 @@ help:
 	@echo "... backtracking/copy_ip_93.o"
 	@echo "... backtracking/copy_ip_93.i"
 	@echo "... backtracking/copy_ip_93.s"
+	@echo "... backtracking/full_array2_47.o"
+	@echo "... backtracking/full_array2_47.i"
+	@echo "... backtracking/full_array2_47.s"
+	@echo "... backtracking/full_array_46.o"
+	@echo "... backtracking/full_array_46.i"
+	@echo "... backtracking/full_array_46.s"
+	@echo "... backtracking/inscrean_son_491.o"
+	@echo "... backtracking/inscrean_son_491.i"
+	@echo "... backtracking/inscrean_son_491.s"
 	@echo "... backtracking/phone_num_17.o"
 	@echo "... backtracking/phone_num_17.i"
 	@echo "... backtracking/phone_num_17.s"

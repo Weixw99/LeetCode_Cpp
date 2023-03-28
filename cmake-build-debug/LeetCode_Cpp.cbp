@@ -109,6 +109,15 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/copy_ip_93.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/full_array2_47.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/full_array_46.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/inscrean_son_491.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/backtracking/phone_num_17.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

@@ -1049,6 +1049,48 @@ CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/son_combination_90.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.s
 
+CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o: ../backtracking/inscrean_son_491.cpp
+CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o -c /home/wxw/Project/LeetCode_Cpp/backtracking/inscrean_son_491.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/backtracking/inscrean_son_491.cpp > CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/inscrean_son_491.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o: ../backtracking/full_array_46.cpp
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o -c /home/wxw/Project/LeetCode_Cpp/backtracking/full_array_46.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/backtracking/full_array_46.cpp > CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/full_array_46.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o: ../backtracking/full_array2_47.cpp
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o -c /home/wxw/Project/LeetCode_Cpp/backtracking/full_array2_47.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/backtracking/full_array2_47.cpp > CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/backtracking/full_array2_47.cpp -o CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.s
+
 # Object files for target LeetCode_Cpp
 LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" \
@@ -1120,7 +1162,10 @@ LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o" \
-"CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o"
+"CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o"
 
 # External object files for target LeetCode_Cpp
 LeetCode_Cpp_EXTERNAL_OBJECTS =
@@ -1195,9 +1240,12 @@ LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/split_string_131.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/copy_ip_93.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_78.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/son_combination_90.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/inscrean_son_491.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array_46.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/backtracking/full_array2_47.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/build.make
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Linking CXX executable LeetCode_Cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Linking CXX executable LeetCode_Cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode_Cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

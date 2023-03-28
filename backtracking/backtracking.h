@@ -8,6 +8,7 @@
 using namespace std;
 #include "vector"
 #include<algorithm>
+#include "unordered_set"
 
 /*******77. 组合********/
 class Solution77 {
@@ -86,11 +87,29 @@ public:
     void backtracking(vector<int> nums, int startIndex);
 };
 /*******491.递增子序列********/
-
+class Solution491 {
+public:
+    vector<vector<int>>  result;
+    vector<int> path;
+    vector<vector<int>> findSubsequences(vector<int>& nums);
+    void backtracking(vector<int> nums, int startIndex);
+};
 /*******46.全排列********/
-
+class Solution46 {
+public:
+    vector<vector<int>>  result;
+    vector<int> path;
+    vector<vector<int>> permute(vector<int>& nums);
+    void backtracking(vector<int> nums, vector<bool> used);
+};
 /*******47.全排列 II********/
-
+class Solution47 {
+public:
+    vector<vector<int>>  result;
+    vector<int> path;
+    vector<vector<int>> permuteUnique(vector<int>& nums);
+    void backtracking(vector<int> nums, vector<bool> used);
+};
 /*******332.重新安排行程********/
 
 /*******51. N皇后********/
