@@ -220,6 +220,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/binary_tree/verify_tree_98.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/distribute_cookies_455.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/greedy.h">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

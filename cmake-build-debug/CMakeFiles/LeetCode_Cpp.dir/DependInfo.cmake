@@ -51,6 +51,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/wxw/Project/LeetCode_Cpp/binary_tree/search_tree_700.cpp" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/search_tree_700.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/search_tree_700.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/binary_tree/symmetries_tree_101.cpp" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/binary_tree/verify_tree_98.cpp" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/greedy/distribute_cookies_455.cpp" "CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/anagrams_242.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/hash_table/happy_num_202.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/happy_num_202.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/hash_table/ransom_letter_383.cpp" "CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/hash_table/ransom_letter_383.cpp.o.d"

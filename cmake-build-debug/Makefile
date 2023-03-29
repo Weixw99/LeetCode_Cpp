@@ -1161,6 +1161,30 @@ binary_tree/verify_tree_98.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.s
 .PHONY : binary_tree/verify_tree_98.cpp.s
 
+greedy/distribute_cookies_455.o: greedy/distribute_cookies_455.cpp.o
+.PHONY : greedy/distribute_cookies_455.o
+
+# target to build an object file
+greedy/distribute_cookies_455.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.o
+.PHONY : greedy/distribute_cookies_455.cpp.o
+
+greedy/distribute_cookies_455.i: greedy/distribute_cookies_455.cpp.i
+.PHONY : greedy/distribute_cookies_455.i
+
+# target to preprocess a source file
+greedy/distribute_cookies_455.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.i
+.PHONY : greedy/distribute_cookies_455.cpp.i
+
+greedy/distribute_cookies_455.s: greedy/distribute_cookies_455.cpp.s
+.PHONY : greedy/distribute_cookies_455.s
+
+# target to generate assembly for a file
+greedy/distribute_cookies_455.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.s
+.PHONY : greedy/distribute_cookies_455.cpp.s
+
 hash_table/anagrams_242.o: hash_table/anagrams_242.cpp.o
 .PHONY : hash_table/anagrams_242.o
 
@@ -2043,6 +2067,9 @@ help:
 	@echo "... binary_tree/verify_tree_98.o"
 	@echo "... binary_tree/verify_tree_98.i"
 	@echo "... binary_tree/verify_tree_98.s"
+	@echo "... greedy/distribute_cookies_455.o"
+	@echo "... greedy/distribute_cookies_455.i"
+	@echo "... greedy/distribute_cookies_455.s"
 	@echo "... hash_table/anagrams_242.o"
 	@echo "... hash_table/anagrams_242.i"
 	@echo "... hash_table/anagrams_242.s"
