@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode_Cpp.dir/array/array_209.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o"
   "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o.d"
+  "CMakeFiles/LeetCode_Cpp.dir/backtracking/arrange_trip_332.cpp.o"
+  "CMakeFiles/LeetCode_Cpp.dir/backtracking/arrange_trip_332.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.o"
   "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.o.d"
   "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum2_40.cpp.o"

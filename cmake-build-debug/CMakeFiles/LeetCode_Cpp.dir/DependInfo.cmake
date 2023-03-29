@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/wxw/Project/LeetCode_Cpp/array/array_209.cpp" "CMakeFiles/LeetCode_Cpp.dir/array/array_209.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/array/array_209.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/array/matrix_59.cpp" "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/backtracking/arrange_trip_332.cpp" "CMakeFiles/LeetCode_Cpp.dir/backtracking/arrange_trip_332.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/backtracking/arrange_trip_332.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/backtracking/combination_77.cpp" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_77.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/backtracking/combination_sum2_40.cpp" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum2_40.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum2_40.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/backtracking/combination_sum_216.cpp" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/backtracking/combination_sum_216.cpp.o.d"

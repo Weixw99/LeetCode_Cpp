@@ -177,6 +177,30 @@ array/matrix_59.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/array/matrix_59.cpp.s
 .PHONY : array/matrix_59.cpp.s
 
+backtracking/arrange_trip_332.o: backtracking/arrange_trip_332.cpp.o
+.PHONY : backtracking/arrange_trip_332.o
+
+# target to build an object file
+backtracking/arrange_trip_332.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/arrange_trip_332.cpp.o
+.PHONY : backtracking/arrange_trip_332.cpp.o
+
+backtracking/arrange_trip_332.i: backtracking/arrange_trip_332.cpp.i
+.PHONY : backtracking/arrange_trip_332.i
+
+# target to preprocess a source file
+backtracking/arrange_trip_332.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/arrange_trip_332.cpp.i
+.PHONY : backtracking/arrange_trip_332.cpp.i
+
+backtracking/arrange_trip_332.s: backtracking/arrange_trip_332.cpp.s
+.PHONY : backtracking/arrange_trip_332.s
+
+# target to generate assembly for a file
+backtracking/arrange_trip_332.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/backtracking/arrange_trip_332.cpp.s
+.PHONY : backtracking/arrange_trip_332.cpp.s
+
 backtracking/combination_77.o: backtracking/combination_77.cpp.o
 .PHONY : backtracking/combination_77.o
 
@@ -1896,6 +1920,9 @@ help:
 	@echo "... array/matrix_59.o"
 	@echo "... array/matrix_59.i"
 	@echo "... array/matrix_59.s"
+	@echo "... backtracking/arrange_trip_332.o"
+	@echo "... backtracking/arrange_trip_332.i"
+	@echo "... backtracking/arrange_trip_332.s"
 	@echo "... backtracking/combination_77.o"
 	@echo "... backtracking/combination_77.i"
 	@echo "... backtracking/combination_77.s"

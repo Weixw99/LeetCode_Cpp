@@ -20,7 +20,7 @@ int test(){
 int main ()
 {
     //test();
-    int wxw = make_main93();
+    int wxw = make_main332();
     //int ss = 5;
     //cout << ss;
     return 0;

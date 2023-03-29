@@ -111,11 +111,24 @@ public:
     void backtracking(vector<int> nums, vector<bool> used);
 };
 /*******332.重新安排行程********/
-
+class Solution332 {
+public:
+    vector<vector<string>>  result;
+    vector<string> path;
+    vector<string> findItinerary(vector<vector<string>>& tickets);
+    void backtracking(vector<vector<string>> tickets, vector<bool> used);
+};
+int make_main332();
 /*******51. N皇后********/
-
+class Solution51{
+public:
+    vector<vector<string>> solveNQueens(int n);
+};
 /*******37. 解数独********/
-
+class Solution {
+public:
+    void solveSudoku(vector<vector<char>>& board);
+};
 
 
 #endif //LEETCODE_CPP_BACKTRACKING_H
