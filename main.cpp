@@ -5,6 +5,7 @@
 #include "stack_queue/stack_queue.h"
 #include "binary_tree/binary_tree.h"
 #include "backtracking/backtracking.h"
+#include "greedy/greedy.h"
 
 int test(){
     vector<int> Arrs {1,2,3,4,5,6,7,8,9}; // 假设有这么个数组,要截取中间第二个元素到第四个元素：2，3，4
@@ -20,7 +21,7 @@ int test(){
 int main ()
 {
     //test();
-    int wxw = make_main332();
+    int wxw = make_main376();
     //int ss = 5;
     //cout << ss;
     return 0;

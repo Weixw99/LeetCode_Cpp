@@ -15,9 +15,16 @@ public:
     int findContentChildren(vector<int>& g, vector<int>& s);
 };
 /*******376. 摆动序列********/
-
+class Solution376 {
+public:
+    int wiggleMaxLength(vector<int>& nums);
+};
+int make_main376();
 /*******453. 最大子序和********/
-
+class Solution453 {
+public:
+    int maxSubArray(vector<int>& nums);
+};
 /*******122.买卖股票的最佳时机II********/
 
 /*******55. 跳跃游戏********/

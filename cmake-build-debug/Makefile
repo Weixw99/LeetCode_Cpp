@@ -1185,6 +1185,54 @@ greedy/distribute_cookies_455.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.s
 .PHONY : greedy/distribute_cookies_455.cpp.s
 
+greedy/max_son_array_53.o: greedy/max_son_array_53.cpp.o
+.PHONY : greedy/max_son_array_53.o
+
+# target to build an object file
+greedy/max_son_array_53.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/max_son_array_53.cpp.o
+.PHONY : greedy/max_son_array_53.cpp.o
+
+greedy/max_son_array_53.i: greedy/max_son_array_53.cpp.i
+.PHONY : greedy/max_son_array_53.i
+
+# target to preprocess a source file
+greedy/max_son_array_53.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/max_son_array_53.cpp.i
+.PHONY : greedy/max_son_array_53.cpp.i
+
+greedy/max_son_array_53.s: greedy/max_son_array_53.cpp.s
+.PHONY : greedy/max_son_array_53.s
+
+# target to generate assembly for a file
+greedy/max_son_array_53.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/max_son_array_53.cpp.s
+.PHONY : greedy/max_son_array_53.cpp.s
+
+greedy/swing_376.o: greedy/swing_376.cpp.o
+.PHONY : greedy/swing_376.o
+
+# target to build an object file
+greedy/swing_376.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/swing_376.cpp.o
+.PHONY : greedy/swing_376.cpp.o
+
+greedy/swing_376.i: greedy/swing_376.cpp.i
+.PHONY : greedy/swing_376.i
+
+# target to preprocess a source file
+greedy/swing_376.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/swing_376.cpp.i
+.PHONY : greedy/swing_376.cpp.i
+
+greedy/swing_376.s: greedy/swing_376.cpp.s
+.PHONY : greedy/swing_376.s
+
+# target to generate assembly for a file
+greedy/swing_376.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/swing_376.cpp.s
+.PHONY : greedy/swing_376.cpp.s
+
 hash_table/anagrams_242.o: hash_table/anagrams_242.cpp.o
 .PHONY : hash_table/anagrams_242.o
 
@@ -2070,6 +2118,12 @@ help:
 	@echo "... greedy/distribute_cookies_455.o"
 	@echo "... greedy/distribute_cookies_455.i"
 	@echo "... greedy/distribute_cookies_455.s"
+	@echo "... greedy/max_son_array_53.o"
+	@echo "... greedy/max_son_array_53.i"
+	@echo "... greedy/max_son_array_53.s"
+	@echo "... greedy/swing_376.o"
+	@echo "... greedy/swing_376.i"
+	@echo "... greedy/swing_376.s"
 	@echo "... hash_table/anagrams_242.o"
 	@echo "... hash_table/anagrams_242.i"
 	@echo "... hash_table/anagrams_242.s"
