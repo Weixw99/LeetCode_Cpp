@@ -26,7 +26,11 @@ public:
     int maxSubArray(vector<int>& nums);
 };
 /*******122.买卖股票的最佳时机II********/
-
+class Solution122 {
+public:
+    int maxProfit(vector<int>& prices);
+};
+int make_main122();
 /*******55. 跳跃游戏********/
 
 /*******45.跳跃游戏II********/

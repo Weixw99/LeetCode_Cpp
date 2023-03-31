@@ -1161,6 +1161,30 @@ binary_tree/verify_tree_98.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.s
 .PHONY : binary_tree/verify_tree_98.cpp.s
 
+greedy/buy_stock_122.o: greedy/buy_stock_122.cpp.o
+.PHONY : greedy/buy_stock_122.o
+
+# target to build an object file
+greedy/buy_stock_122.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/buy_stock_122.cpp.o
+.PHONY : greedy/buy_stock_122.cpp.o
+
+greedy/buy_stock_122.i: greedy/buy_stock_122.cpp.i
+.PHONY : greedy/buy_stock_122.i
+
+# target to preprocess a source file
+greedy/buy_stock_122.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/buy_stock_122.cpp.i
+.PHONY : greedy/buy_stock_122.cpp.i
+
+greedy/buy_stock_122.s: greedy/buy_stock_122.cpp.s
+.PHONY : greedy/buy_stock_122.s
+
+# target to generate assembly for a file
+greedy/buy_stock_122.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/buy_stock_122.cpp.s
+.PHONY : greedy/buy_stock_122.cpp.s
+
 greedy/distribute_cookies_455.o: greedy/distribute_cookies_455.cpp.o
 .PHONY : greedy/distribute_cookies_455.o
 
@@ -2115,6 +2139,9 @@ help:
 	@echo "... binary_tree/verify_tree_98.o"
 	@echo "... binary_tree/verify_tree_98.i"
 	@echo "... binary_tree/verify_tree_98.s"
+	@echo "... greedy/buy_stock_122.o"
+	@echo "... greedy/buy_stock_122.i"
+	@echo "... greedy/buy_stock_122.s"
 	@echo "... greedy/distribute_cookies_455.o"
 	@echo "... greedy/distribute_cookies_455.i"
 	@echo "... greedy/distribute_cookies_455.s"
