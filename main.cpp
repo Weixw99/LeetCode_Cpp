@@ -21,7 +21,7 @@ int test(){
 int main ()
 {
     //test();
-    int wxw = make_main122();
+    int wxw = make_main45();
     //int ss = 5;
     //cout << ss;
     return 0;

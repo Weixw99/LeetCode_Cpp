@@ -32,9 +32,17 @@ public:
 };
 int make_main122();
 /*******55. 跳跃游戏********/
-
+class Solution55 {
+public:
+    bool canJump(vector<int>& nums);
+};
+int make_main55();
 /*******45.跳跃游戏II********/
-
+class Solution45 {
+public:
+    int jump(vector<int>& nums);
+};
+int make_main45();
 /*******1005.K次取反后最大化的数组和********/
 
 /*******134. 加油站********/

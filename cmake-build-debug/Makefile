@@ -1209,6 +1209,54 @@ greedy/distribute_cookies_455.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.s
 .PHONY : greedy/distribute_cookies_455.cpp.s
 
+greedy/jump2_45.o: greedy/jump2_45.cpp.o
+.PHONY : greedy/jump2_45.o
+
+# target to build an object file
+greedy/jump2_45.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/jump2_45.cpp.o
+.PHONY : greedy/jump2_45.cpp.o
+
+greedy/jump2_45.i: greedy/jump2_45.cpp.i
+.PHONY : greedy/jump2_45.i
+
+# target to preprocess a source file
+greedy/jump2_45.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/jump2_45.cpp.i
+.PHONY : greedy/jump2_45.cpp.i
+
+greedy/jump2_45.s: greedy/jump2_45.cpp.s
+.PHONY : greedy/jump2_45.s
+
+# target to generate assembly for a file
+greedy/jump2_45.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/jump2_45.cpp.s
+.PHONY : greedy/jump2_45.cpp.s
+
+greedy/jump_55.o: greedy/jump_55.cpp.o
+.PHONY : greedy/jump_55.o
+
+# target to build an object file
+greedy/jump_55.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/jump_55.cpp.o
+.PHONY : greedy/jump_55.cpp.o
+
+greedy/jump_55.i: greedy/jump_55.cpp.i
+.PHONY : greedy/jump_55.i
+
+# target to preprocess a source file
+greedy/jump_55.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/jump_55.cpp.i
+.PHONY : greedy/jump_55.cpp.i
+
+greedy/jump_55.s: greedy/jump_55.cpp.s
+.PHONY : greedy/jump_55.s
+
+# target to generate assembly for a file
+greedy/jump_55.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/jump_55.cpp.s
+.PHONY : greedy/jump_55.cpp.s
+
 greedy/max_son_array_53.o: greedy/max_son_array_53.cpp.o
 .PHONY : greedy/max_son_array_53.o
 
@@ -2145,6 +2193,12 @@ help:
 	@echo "... greedy/distribute_cookies_455.o"
 	@echo "... greedy/distribute_cookies_455.i"
 	@echo "... greedy/distribute_cookies_455.s"
+	@echo "... greedy/jump2_45.o"
+	@echo "... greedy/jump2_45.i"
+	@echo "... greedy/jump2_45.s"
+	@echo "... greedy/jump_55.o"
+	@echo "... greedy/jump_55.i"
+	@echo "... greedy/jump_55.s"
 	@echo "... greedy/max_son_array_53.o"
 	@echo "... greedy/max_son_array_53.i"
 	@echo "... greedy/max_son_array_53.s"

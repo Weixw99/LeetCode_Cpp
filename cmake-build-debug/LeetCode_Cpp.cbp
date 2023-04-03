@@ -229,6 +229,12 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/greedy.h">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/jump2_45.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/jump_55.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/max_son_array_53.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
