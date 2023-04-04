@@ -44,9 +44,17 @@ public:
 };
 int make_main45();
 /*******1005.K次取反后最大化的数组和********/
-
+class Solution1005 {
+public:
+    static bool cmp(int a, int b) {return abs(a) > abs(b);}
+    int largestSumAfterKNegations(vector<int>& nums, int k);
+};
 /*******134. 加油站********/
-
+class Solution134 {
+public:
+    int canCompleteCircuit(vector<int>& gas, vector<int>& cost);
+};
+int make_main134();
 /*******135. 分发糖果********/
 
 /*******860.柠檬水找零********/

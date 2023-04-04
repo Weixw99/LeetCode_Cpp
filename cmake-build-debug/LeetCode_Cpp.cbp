@@ -226,6 +226,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/distribute_cookies_455.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/gas_134.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/greedy.h">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
@@ -233,6 +236,9 @@
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/jump_55.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/k_array_sum_1005.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/max_son_array_53.cpp">

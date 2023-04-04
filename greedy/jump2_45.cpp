@@ -14,7 +14,6 @@ int Solution45::jump(vector<int> &nums) {
                 cover = next_cover;
                 if(cover >= nums.size()-1) break;
             }else break;
-
         }
     }
     return count;

@@ -1209,6 +1209,30 @@ greedy/distribute_cookies_455.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.s
 .PHONY : greedy/distribute_cookies_455.cpp.s
 
+greedy/gas_134.o: greedy/gas_134.cpp.o
+.PHONY : greedy/gas_134.o
+
+# target to build an object file
+greedy/gas_134.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/gas_134.cpp.o
+.PHONY : greedy/gas_134.cpp.o
+
+greedy/gas_134.i: greedy/gas_134.cpp.i
+.PHONY : greedy/gas_134.i
+
+# target to preprocess a source file
+greedy/gas_134.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/gas_134.cpp.i
+.PHONY : greedy/gas_134.cpp.i
+
+greedy/gas_134.s: greedy/gas_134.cpp.s
+.PHONY : greedy/gas_134.s
+
+# target to generate assembly for a file
+greedy/gas_134.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/gas_134.cpp.s
+.PHONY : greedy/gas_134.cpp.s
+
 greedy/jump2_45.o: greedy/jump2_45.cpp.o
 .PHONY : greedy/jump2_45.o
 
@@ -1256,6 +1280,30 @@ greedy/jump_55.s: greedy/jump_55.cpp.s
 greedy/jump_55.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/jump_55.cpp.s
 .PHONY : greedy/jump_55.cpp.s
+
+greedy/k_array_sum_1005.o: greedy/k_array_sum_1005.cpp.o
+.PHONY : greedy/k_array_sum_1005.o
+
+# target to build an object file
+greedy/k_array_sum_1005.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/k_array_sum_1005.cpp.o
+.PHONY : greedy/k_array_sum_1005.cpp.o
+
+greedy/k_array_sum_1005.i: greedy/k_array_sum_1005.cpp.i
+.PHONY : greedy/k_array_sum_1005.i
+
+# target to preprocess a source file
+greedy/k_array_sum_1005.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/k_array_sum_1005.cpp.i
+.PHONY : greedy/k_array_sum_1005.cpp.i
+
+greedy/k_array_sum_1005.s: greedy/k_array_sum_1005.cpp.s
+.PHONY : greedy/k_array_sum_1005.s
+
+# target to generate assembly for a file
+greedy/k_array_sum_1005.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/k_array_sum_1005.cpp.s
+.PHONY : greedy/k_array_sum_1005.cpp.s
 
 greedy/max_son_array_53.o: greedy/max_son_array_53.cpp.o
 .PHONY : greedy/max_son_array_53.o
@@ -2193,12 +2241,18 @@ help:
 	@echo "... greedy/distribute_cookies_455.o"
 	@echo "... greedy/distribute_cookies_455.i"
 	@echo "... greedy/distribute_cookies_455.s"
+	@echo "... greedy/gas_134.o"
+	@echo "... greedy/gas_134.i"
+	@echo "... greedy/gas_134.s"
 	@echo "... greedy/jump2_45.o"
 	@echo "... greedy/jump2_45.i"
 	@echo "... greedy/jump2_45.s"
 	@echo "... greedy/jump_55.o"
 	@echo "... greedy/jump_55.i"
 	@echo "... greedy/jump_55.s"
+	@echo "... greedy/k_array_sum_1005.o"
+	@echo "... greedy/k_array_sum_1005.i"
+	@echo "... greedy/k_array_sum_1005.s"
 	@echo "... greedy/max_son_array_53.o"
 	@echo "... greedy/max_son_array_53.i"
 	@echo "... greedy/max_son_array_53.s"
