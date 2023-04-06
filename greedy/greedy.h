@@ -56,7 +56,10 @@ public:
 };
 int make_main134();
 /*******135. 分发糖果********/
-
+class Solution135 {
+public:
+    int candy(vector<int>& ratings);
+};
 /*******860.柠檬水找零********/
 
 /*******406.根据身高重建队列********/

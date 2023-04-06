@@ -52,6 +52,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/wxw/Project/LeetCode_Cpp/binary_tree/symmetries_tree_101.cpp" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/symmetries_tree_101.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/binary_tree/verify_tree_98.cpp" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/greedy/buy_stock_122.cpp" "CMakeFiles/LeetCode_Cpp.dir/greedy/buy_stock_122.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/greedy/buy_stock_122.cpp.o.d"
+  "/home/wxw/Project/LeetCode_Cpp/greedy/candy_135.cpp" "CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/greedy/distribute_cookies_455.cpp" "CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/greedy/distribute_cookies_455.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/greedy/gas_134.cpp" "CMakeFiles/LeetCode_Cpp.dir/greedy/gas_134.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/greedy/gas_134.cpp.o.d"
   "/home/wxw/Project/LeetCode_Cpp/greedy/jump2_45.cpp" "CMakeFiles/LeetCode_Cpp.dir/greedy/jump2_45.cpp.o" "gcc" "CMakeFiles/LeetCode_Cpp.dir/greedy/jump2_45.cpp.o.d"

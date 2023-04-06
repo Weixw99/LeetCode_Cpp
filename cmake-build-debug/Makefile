@@ -1185,6 +1185,30 @@ greedy/buy_stock_122.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/buy_stock_122.cpp.s
 .PHONY : greedy/buy_stock_122.cpp.s
 
+greedy/candy_135.o: greedy/candy_135.cpp.o
+.PHONY : greedy/candy_135.o
+
+# target to build an object file
+greedy/candy_135.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.o
+.PHONY : greedy/candy_135.cpp.o
+
+greedy/candy_135.i: greedy/candy_135.cpp.i
+.PHONY : greedy/candy_135.i
+
+# target to preprocess a source file
+greedy/candy_135.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.i
+.PHONY : greedy/candy_135.cpp.i
+
+greedy/candy_135.s: greedy/candy_135.cpp.s
+.PHONY : greedy/candy_135.s
+
+# target to generate assembly for a file
+greedy/candy_135.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.s
+.PHONY : greedy/candy_135.cpp.s
+
 greedy/distribute_cookies_455.o: greedy/distribute_cookies_455.cpp.o
 .PHONY : greedy/distribute_cookies_455.o
 
@@ -2238,6 +2262,9 @@ help:
 	@echo "... greedy/buy_stock_122.o"
 	@echo "... greedy/buy_stock_122.i"
 	@echo "... greedy/buy_stock_122.s"
+	@echo "... greedy/candy_135.o"
+	@echo "... greedy/candy_135.i"
+	@echo "... greedy/candy_135.s"
 	@echo "... greedy/distribute_cookies_455.o"
 	@echo "... greedy/distribute_cookies_455.i"
 	@echo "... greedy/distribute_cookies_455.s"
