@@ -61,11 +61,20 @@ public:
     int candy(vector<int>& ratings);
 };
 /*******860.柠檬水找零********/
-
+class Solution860 {
+public:
+    bool lemonadeChange(vector<int>& bills);
+};
 /*******406.根据身高重建队列********/
-
+class Solution406 {
+public:
+    vector<vector<int>> reconstructQueue(vector<vector<int>>& people);
+};
 /*******452. 用最少数量的箭引爆气球********/
-
+class Solution452 {
+public:
+    int findMinArrowShots(vector<vector<int>>& points);
+};
 /*******435. 无重叠区间********/
 
 /*******763.划分字母区间********/

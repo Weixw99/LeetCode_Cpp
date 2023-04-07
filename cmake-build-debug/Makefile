@@ -1161,6 +1161,30 @@ binary_tree/verify_tree_98.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/binary_tree/verify_tree_98.cpp.s
 .PHONY : binary_tree/verify_tree_98.cpp.s
 
+greedy/arrow_452.o: greedy/arrow_452.cpp.o
+.PHONY : greedy/arrow_452.o
+
+# target to build an object file
+greedy/arrow_452.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o
+.PHONY : greedy/arrow_452.cpp.o
+
+greedy/arrow_452.i: greedy/arrow_452.cpp.i
+.PHONY : greedy/arrow_452.i
+
+# target to preprocess a source file
+greedy/arrow_452.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.i
+.PHONY : greedy/arrow_452.cpp.i
+
+greedy/arrow_452.s: greedy/arrow_452.cpp.s
+.PHONY : greedy/arrow_452.s
+
+# target to generate assembly for a file
+greedy/arrow_452.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.s
+.PHONY : greedy/arrow_452.cpp.s
+
 greedy/buy_stock_122.o: greedy/buy_stock_122.cpp.o
 .PHONY : greedy/buy_stock_122.o
 
@@ -1376,6 +1400,30 @@ greedy/swing_376.s: greedy/swing_376.cpp.s
 greedy/swing_376.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/swing_376.cpp.s
 .PHONY : greedy/swing_376.cpp.s
+
+greedy/teight_406.o: greedy/teight_406.cpp.o
+.PHONY : greedy/teight_406.o
+
+# target to build an object file
+greedy/teight_406.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o
+.PHONY : greedy/teight_406.cpp.o
+
+greedy/teight_406.i: greedy/teight_406.cpp.i
+.PHONY : greedy/teight_406.i
+
+# target to preprocess a source file
+greedy/teight_406.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.i
+.PHONY : greedy/teight_406.cpp.i
+
+greedy/teight_406.s: greedy/teight_406.cpp.s
+.PHONY : greedy/teight_406.s
+
+# target to generate assembly for a file
+greedy/teight_406.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_Cpp.dir/build.make CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.s
+.PHONY : greedy/teight_406.cpp.s
 
 hash_table/anagrams_242.o: hash_table/anagrams_242.cpp.o
 .PHONY : hash_table/anagrams_242.o
@@ -2259,6 +2307,9 @@ help:
 	@echo "... binary_tree/verify_tree_98.o"
 	@echo "... binary_tree/verify_tree_98.i"
 	@echo "... binary_tree/verify_tree_98.s"
+	@echo "... greedy/arrow_452.o"
+	@echo "... greedy/arrow_452.i"
+	@echo "... greedy/arrow_452.s"
 	@echo "... greedy/buy_stock_122.o"
 	@echo "... greedy/buy_stock_122.i"
 	@echo "... greedy/buy_stock_122.s"
@@ -2286,6 +2337,9 @@ help:
 	@echo "... greedy/swing_376.o"
 	@echo "... greedy/swing_376.i"
 	@echo "... greedy/swing_376.s"
+	@echo "... greedy/teight_406.o"
+	@echo "... greedy/teight_406.i"
+	@echo "... greedy/teight_406.s"
 	@echo "... hash_table/anagrams_242.o"
 	@echo "... hash_table/anagrams_242.i"
 	@echo "... hash_table/anagrams_242.s"

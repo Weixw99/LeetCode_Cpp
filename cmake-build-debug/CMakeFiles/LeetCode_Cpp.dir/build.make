@@ -1231,6 +1231,34 @@ CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/greedy/candy_135.cpp -o CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.s
 
+CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o: ../greedy/teight_406.cpp
+CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o -c /home/wxw/Project/LeetCode_Cpp/greedy/teight_406.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/greedy/teight_406.cpp > CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/greedy/teight_406.cpp -o CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.s
+
+CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o: CMakeFiles/LeetCode_Cpp.dir/flags.make
+CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o: ../greedy/arrow_452.cpp
+CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o: CMakeFiles/LeetCode_Cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o -MF CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o.d -o CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o -c /home/wxw/Project/LeetCode_Cpp/greedy/arrow_452.cpp
+
+CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wxw/Project/LeetCode_Cpp/greedy/arrow_452.cpp > CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.i
+
+CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wxw/Project/LeetCode_Cpp/greedy/arrow_452.cpp -o CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.s
+
 # Object files for target LeetCode_Cpp
 LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/main.cpp.o" \
@@ -1315,7 +1343,9 @@ LeetCode_Cpp_OBJECTS = \
 "CMakeFiles/LeetCode_Cpp.dir/greedy/jump2_45.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/greedy/k_array_sum_1005.cpp.o" \
 "CMakeFiles/LeetCode_Cpp.dir/greedy/gas_134.cpp.o" \
-"CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.o"
+"CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o" \
+"CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o"
 
 # External object files for target LeetCode_Cpp
 LeetCode_Cpp_EXTERNAL_OBJECTS =
@@ -1403,9 +1433,11 @@ LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/greedy/jump2_45.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/greedy/k_array_sum_1005.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/greedy/gas_134.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/greedy/candy_135.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/greedy/teight_406.cpp.o
+LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/greedy/arrow_452.cpp.o
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/build.make
 LeetCode_Cpp: CMakeFiles/LeetCode_Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Linking CXX executable LeetCode_Cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wxw/Project/LeetCode_Cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Linking CXX executable LeetCode_Cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode_Cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
