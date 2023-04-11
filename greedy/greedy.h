@@ -76,7 +76,10 @@ public:
     int findMinArrowShots(vector<vector<int>>& points);
 };
 /*******435. 无重叠区间********/
-
+class Solution435 {
+public:
+    int eraseOverlapIntervals(vector<vector<int>>& intervals);
+};
 /*******763.划分字母区间********/
 
 /*******56. 合并区间********/
