@@ -259,6 +259,9 @@
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/teight_406.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>
+		<Unit filename="/home/wxw/Project/LeetCode_Cpp/greedy/word_interval_763.cpp">
+			<Option target="LeetCode_Cpp"/>
+		</Unit>
 		<Unit filename="/home/wxw/Project/LeetCode_Cpp/hash_table/anagrams_242.cpp">
 			<Option target="LeetCode_Cpp"/>
 		</Unit>

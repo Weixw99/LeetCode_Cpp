@@ -81,7 +81,10 @@ public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals);
 };
 /*******763.划分字母区间********/
-
+class Solution763 {
+public:
+    vector<int> partitionLabels(string s);
+};
 /*******56. 合并区间********/
 
 /*******738.单调递增的数字********/
